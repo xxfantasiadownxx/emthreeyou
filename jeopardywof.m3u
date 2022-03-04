@@ -1,0 +1,5 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/26p5n3jkxrs4xv9yv7jm"
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Undefined",ABC 5 Cleveland OH (WEWS-TV) (720p)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WEWS.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Undefined",CBS 47 Action News Jacksonville FL (WJAX-TV) (720p)
+https://d2eit0bra9qkiw.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10050_b9ac3c93-be86-4f7e-82b8-796b7f8bfda3_LE/in/cmg-wjaxtv-hls-v3/live.m3u8
