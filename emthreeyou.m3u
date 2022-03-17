@@ -7,3 +7,5 @@ https://buzzr-roku-us.amagi.tv/playlist.m3u8
 http://trn03.tulix.tv/teleup-cspan/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Undefined",WGAL-TV News Lancaster PA (720p) [Not 24/7]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WGAL.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Undefined",G4 Select (720p)
+https://siloh.pluto.tv/lilo/production/G4EN/master.m3u8
