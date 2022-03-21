@@ -5,7 +5,5 @@ http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
 https://buzzr-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CSPAN.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.dailydot.com/wp-content/uploads/2020/08/CSpan.png" group-title="Legislative",CSPAN1 (720p)
 http://trn03.tulix.tv/teleup-cspan/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Undefined",WGAL-TV News Lancaster PA (720p) [Not 24/7]
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WGAL.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Undefined",G4 Select (720p)
-https://siloh.pluto.tv/lilo/production/G4EN/master.m3u8
+#EXTINF:-1 tvg-id="NHK-WLD.us" tvg-name="NHK World" tvg-country="US" tvg-language="" tvg-logo="" group-title="Undefined",NHK World TV
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
