@@ -13,3 +13,5 @@ http://trn03.tulix.tv/teleup-cbs-whp-new1/tracks-v1a1/mono.m3u8
 https://witfdt.lls.pbs.org/out/v1/15cd55cd6f7442c4a193a47bbfae608a/index.m3u8
 #EXTINF:-1 tvg-id="PBS-Kids.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+#EXTINF:-1 tvg-id="Create.us" tvg-country="US" tvg-language="" tvg-logo="" group-title="Undefined",Create
+https://klcsdt.lls.pbs.org/out/v1/6ee318cffa774733acf31f9a1af38036/index.m3u8
