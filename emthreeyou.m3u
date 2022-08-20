@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/26p5n3jkxrs4xv9yv7jm"
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel (720p)" tvg-logo="https://i.imgur.com/FJihT0Q.png" group-title="News",Fox News Channel (720p)
-http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
+#EXTINF:-1 ch-number="122" tvg-id="FoxNewsChannel.us" tvg-name="Fox News" tvg-logo="https://i.imgur.com/AJvekAr.png" group-title="News & Culture",[✓] Fox News
+https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=39
 #EXTINF:-1 tvg-id="BUZZR.us" tvg-name="Buzzr (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/NewBUZZRLogo2021.png" group-title="Entertainment",Buzzr (1080p)
 https://buzzr-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CSPAN.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.dailydot.com/wp-content/uploads/2020/08/CSpan.png" group-title="Legislative",CSPAN1 (720p)
