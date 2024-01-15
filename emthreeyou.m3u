@@ -1,5 +1,3 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/26p5n3jkxrs4xv9yv7jm"
-#EXTINF:-1 ch-number="122" tvg-id="FoxNewsChannel.us" tvg-name="Fox News" tvg-logo="https://i.imgur.com/AJvekAr.png" group-title="News & Culture",[✓] Fox News
-https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=39
-#EXTINF:-1 tvg-id="BUZZR.us" tvg-name="Buzzr (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/NewBUZZRLogo2021.png" group-title="Entertainment",Buzzr (1080p)
-https://buzzr-roku-us.amagi.tv/playlist.m3u8
+#EXTM3U url-tvg="http://m3u4u.com/epg/jwmzn1rgkkhkg354y721"
+#EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World (1080p)" tvg-logo="https://www.nhk.or.jp/j-melo/nhkworld/images_new_top/nhkworld_japan_logo.png" group-title="Culture",NHK World (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
