@@ -1,3 +1,5 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jwmzn1rgkkhkg354y721"
 #EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World (1080p)" tvg-logo="https://www.nhk.or.jp/j-melo/nhkworld/images_new_top/nhkworld_japan_logo.png" group-title="Culture",NHK World (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Outdoor",Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
