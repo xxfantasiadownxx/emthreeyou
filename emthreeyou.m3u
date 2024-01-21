@@ -3,3 +3,5 @@
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Outdoor",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox43 Harrisburg" tvg-logo="https://www.nexstar.tv/wp-content/uploads/2016/09/FOX43_logo.jpg" group-title="Local",Fox43 Harrisburg
+https://video.tegnaone.com/wpmt/live/v1/manifest/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WPMT-Production/01a701c1-5ba1-40d8-8037-17fe7decbbe4/3.m3u8
