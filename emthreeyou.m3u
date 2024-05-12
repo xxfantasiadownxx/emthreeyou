@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jwmzn1rgkkhkg354y721"
 #EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World (1080p)" tvg-logo="https://www.nhk.or.jp/j-melo/nhkworld/images_new_top/nhkworld_japan_logo.png" group-title="Culture",NHK World (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Outdoor",Outdoor Channel
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="Fox43 Harrisburg" tvg-logo="https://www.nexstar.tv/wp-content/uploads/2016/09/FOX43_logo.jpg" group-title="Local",Fox43 Harrisburg
-https://video.tegnaone.com/wpmt/live/v1/manifest/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WPMT-Production/01a701c1-5ba1-40d8-8037-17fe7decbbe4/3.m3u8
+#EXTINF:-1 tvg-id="MPT PBS" tvg-name="MPT PBS (1080p)" tvg-logo="http://baltimoremediablog.com/wp-content/uploads/2015/03/MPT.jpg" group-title="Culture",MPT PBS (1080p)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+#EXTINF:-1 tvg-id="MPT2" tvg-name="MPT2 (1080p)" tvg-logo="https://image.pbs.org/bento3-prod/mpt-bento-live-pbs/circle_logos/124b8f4dd9_circle_logo_mpt2.png" group-title="Culture",MPT2 (1080p)
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
