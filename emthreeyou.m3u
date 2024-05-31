@@ -7,3 +7,5 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 #EXTINF:-1 tvg-id="WPMT Fox43 (Harrisburg)" tvg-name="WPMT Fox43 (Harrisburg)" tvg-logo="https://www.nexstar.tv/wp-content/uploads/2016/09/FOX43_logo.jpg" group-title="News",WPMT Fox43 (Harrisburg)
 https://video.tegnaone.com/wpmt/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WPMT-Production/live/index.m3u8
+#EXTINF:-1 tvg-id="WUSA9 CBS (Washington DC)" tvg-name="WUSA9 CBS (Washington DC)" tvg-logo="https://p.kindpng.com/picc/s/650-6502851_wusa9-logo-hd-png-download.png" group-title="News",WUSA9 CBS (Washington DC)
+https://video.tegnaone.com/wusa/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-Production/live/index.m3u8
