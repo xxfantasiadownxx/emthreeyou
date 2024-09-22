@@ -31,3 +31,5 @@ http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 https://mavtv-mavtvglobal-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:22,WFMZ-DT1 69
 https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
+#EXTINF:22,CNBC
+http://fl2.moveonjoy.com/CNBC/index.m3u8
