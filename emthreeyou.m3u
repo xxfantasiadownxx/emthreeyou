@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World (1080p)" tvg-logo="https://www.nhk.or.jp/j-melo/nhkworld/images_new_top/nhkworld_japan_logo.png" group-title="Culture",NHK World (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="MPT PBS" tvg-name="MPT PBS (1080p)" tvg-logo="http://baltimoremediablog.com/wp-content/uploads/2015/03/MPT.jpg" group-title="Culture",MPT PBS (1080p)
