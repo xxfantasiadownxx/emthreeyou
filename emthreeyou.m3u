@@ -5,10 +5,6 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-id="MPT2" tvg-name="MPT2 (1080p)" tvg-logo="https://image.pbs.org/bento3-prod/mpt-bento-live-pbs/circle_logos/124b8f4dd9_circle_logo_mpt2.png" group-title="Culture",MPT2 (1080p)
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
-#EXTINF:-1 tvg-id="WPMT Fox43 (Harrisburg)" tvg-name="WPMT Fox43 (Harrisburg)" tvg-logo="https://www.nexstar.tv/wp-content/uploads/2016/09/FOX43_logo.jpg" group-title="News",WPMT Fox43 (Harrisburg)
-https://video.tegnaone.com/wpmt/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WPMT-Production/live/index.m3u8
-#EXTINF:-1 tvg-id="WUSA9 CBS (Washington DC)" tvg-name="WUSA9 CBS (Washington DC)" tvg-logo="https://p.kindpng.com/picc/s/650-6502851_wusa9-logo-hd-png-download.png" group-title="News",WUSA9 CBS (Washington DC)
-https://video.tegnaone.com/wusa/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-Production/live/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel
 https://list.iptvcat.com/my_list/s/8c42b1386221b5fe720e1b59ec60dc4c.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports 1
@@ -23,7 +19,5 @@ http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:22,Big Ten Network
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:22,WFMZ-DT1 69
-https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
 #EXTINF:22,CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
