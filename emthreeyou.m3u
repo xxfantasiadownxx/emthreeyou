@@ -10,28 +10,20 @@ https://video.tegnaone.com/wpmt/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4
 #EXTINF:-1 tvg-id="WUSA9 CBS (Washington DC)" tvg-name="WUSA9 CBS (Washington DC)" tvg-logo="https://p.kindpng.com/picc/s/650-6502851_wusa9-logo-hd-png-download.png" group-title="News",WUSA9 CBS (Washington DC)
 https://video.tegnaone.com/wusa/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-Production/live/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel
-http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
+https://list.iptvcat.com/my_list/s/8c42b1386221b5fe720e1b59ec60dc4c.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",NBC Sports
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549306c83595c000815a696/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5102-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21e31328-eadb-4828-8608-0cc14ce24586
 #EXTINF:20,CBS Sports Network
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:24,MLB Network
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:22,NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="WUSADT1.us" tvg-logo="https://i.imgur.com/b49ElBk.png" group-title="Undefined",WUSA-DT1 (1080p)
-https://livevideo01.wusa9.com/hls/live/2015498/elvs/live.m3u8
 #EXTINF:22,Big Ten Network
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:22,MAV TV
-https://mavtv-mavtvglobal-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:22,WFMZ-DT1 69
 https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
 #EXTINF:22,CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:22,AccuWeather
-https://list.iptvcat.com/my_list/s/e562eb86f30b1785721c80ffc8f4ec6d.m3u8
