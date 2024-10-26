@@ -1,27 +1,27 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jwmzn1rgkkhkg354y721"
-#EXTINF:-1 tvg-id="PBS.CLT.NHK.(WTVI2).Charlotte,.NC.us" tvg-name="101 NHK World" tvg-logo="https://www.nhk.or.jp/j-melo/nhkworld/images_new_top/nhkworld_japan_logo.png" group-title="Culture",101 NHK World
+#EXTINF:-1 tvg-id="PBS.CLT.NHK.(WTVI2).Charlotte,.NC.us" tvg-name="101 NHK World" tvg-logo="https://i.ibb.co/WVdJ0Wh/nhk.png" group-title="Culture",101 NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-id="PBS.(WMPT).Annapolis,.MD.us" tvg-name="102 Maryland Public Television" tvg-logo="http://baltimoremediablog.com/wp-content/uploads/2015/03/MPT.jpg" group-title="Culture",102 Maryland Public Television
+#EXTINF:-1 tvg-id="PBS.(WMPT).Annapolis,.MD.us" tvg-name="102 Maryland Public Television" tvg-logo="https://i.ibb.co/TtdNzqH/mpt.png" group-title="Culture",102 Maryland Public Television
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-#EXTINF:-1 tvg-id="Create.TV.us" tvg-name="103 Create TV" tvg-logo="https://www.ranklogos.com/wp-content/uploads/2014/12/Create.jpg" group-title="Culture",103 Create TV
+#EXTINF:-1 tvg-id="Create.TV.us" tvg-name="103 Create TV" tvg-logo="https://i.ibb.co/8mrwSds/create.png" group-title="Culture",103 Create TV
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
-#EXTINF:-1 tvg-id="Fox.News.Channel.HDTV.(East).(FNCHD).us" tvg-name="201 Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",201 Fox News Channel
+#EXTINF:-1 tvg-id="Fox.News.Channel.HDTV.(East).(FNCHD).us" tvg-name="201 Fox News Channel" tvg-logo="https://i.ibb.co/q1st46q/foxnews.png" group-title="News",201 Fox News Channel
 https://list.iptvcat.com/my_list/s/da56539be9622418f55db5cf487f8358.m3u8
-#EXTINF:-1 tvg-id="Real.Americas.Voice.us" tvg-name="202 Real America's Voice" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5525024e9e8054d4ad1cf9fadbfcf8c8/images/titan/assets/aHR0cHM6Ly9ka2kwMXExbDd5bjN5LmNsb3VkZnJvbnQubmV0L3RodW1ibmFpbHMtcGxhdGZvcm0tcHJvZC9hc3NldHMvY3M6OmNvbnRlbnQ6OmNoYW5uZWxzLzAtMjA0OC80MTktUm9rdS1UaHVtYm5haWxfdjEuanBn.jpg" group-title="News",202 Real America's Voice
+#EXTINF:-1 tvg-id="Real.Americas.Voice.us" tvg-name="202 Real America's Voice" tvg-logo="https://i.ibb.co/9cTmTR1/realamericasvoice.png" group-title="News",202 Real America's Voice
 https://list.iptvcat.com/my_list/s/2e95fd53debe2dc8492dc7d7f3147745.m3u8
-#EXTINF:-1 tvg-id="Newsmax.(NEWSM).us" tvg-name="203 Newsmax" tvg-logo="https://seeklogo.com/images/N/newsmax-logo-6FCD4C32F6-seeklogo.com.png" group-title="News",203 Newsmax
+#EXTINF:-1 tvg-id="Newsmax.(NEWSM).us" tvg-name="203 Newsmax" tvg-logo="https://i.ibb.co/RbPmy0h/newsmax.png" group-title="News",203 Newsmax
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
-#EXTINF:22 tvg-id="Consumer.News.and.Business.Channel.HDTV.(CNBCH).us" tvg-name="301 CNBC" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/cnbc-logo-transparent.png" group-title="News",301 CNBC
+#EXTINF:22 tvg-id="Consumer.News.and.Business.Channel.HDTV.(CNBCH).us" tvg-name="301 CNBC" tvg-logo="https://i.ibb.co/FsgKCdr/cnbc.png" group-title="News",301 CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-name="401 Fox Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",401 Fox Sports 1
+#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-name="401 Fox Sports 1" tvg-logo="https://i.ibb.co/mh3ZKNw/fs1.png" group-title="Sports",401 Fox Sports 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-name="402 Fox Sports 2" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",402 Fox Sports 2
+#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-name="402 Fox Sports 2" tvg-logo="https://i.ibb.co/sQb9WKX/fs2.png" group-title="Sports",402 Fox Sports 2
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-name="403 CBS Sports Network" tvg-logo="https://logowik.com/content/uploads/images/cbs-sports-network7445.jpg" group-title="Sports",403 CBS Sports Network
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-name="403 CBS Sports Network" tvg-logo="https://i.ibb.co/m5mRcZ3/cbssn.png" group-title="Sports",403 CBS Sports Network
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-name="404 MLB Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="Sports",404 MLB Network
+#EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-name="404 MLB Network" tvg-logo="https://i.ibb.co/CWmWYtd/mlb.png" group-title="Sports",404 MLB Network
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="The.NFL.Network.HDTV.(NFLHD).us" tvg-name="405 The NFL Network" tvg-logo="http://rugbywrapup.com/wp-content/uploads/2012/04/nfl_network-logo.jpg" group-title="Sports",405 The NFL Network
+#EXTINF:-1 tvg-id="The.NFL.Network.HDTV.(NFLHD).us" tvg-name="405 The NFL Network" tvg-logo="https://i.ibb.co/yWWX2nV/nfl.png" group-title="Sports",405 The NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(National).(BTNHD).us" tvg-name="406 Big Ten Network" tvg-logo="https://1000logos.net/wp-content/uploads/2017/09/Big-Ten-Network-Logo-2011.png" group-title="Sports",406 Big Ten Network
+#EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(National).(BTNHD).us" tvg-name="406 Big Ten Network" tvg-logo="https://i.ibb.co/S3WBPPW/btn.png" group-title="Sports",406 Big Ten Network
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
