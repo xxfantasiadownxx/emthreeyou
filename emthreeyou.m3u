@@ -6,7 +6,13 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-id="MPT2" tvg-name="MPT2 (1080p)" tvg-logo="https://image.pbs.org/bento3-prod/mpt-bento-live-pbs/circle_logos/124b8f4dd9_circle_logo_mpt2.png" group-title="Culture",MPT2 (1080p)
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel
-https://stream2.cinerama.uz/1252/tracks-v1a1/mono.m3u8
+https://list.iptvcat.com/my_list/s/da56539be9622418f55db5cf487f8358.m3u8
+#EXTINF:-1 tvg-id="Real.Americas.Voice.us" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5525024e9e8054d4ad1cf9fadbfcf8c8/images/titan/assets/aHR0cHM6Ly9ka2kwMXExbDd5bjN5LmNsb3VkZnJvbnQubmV0L3RodW1ibmFpbHMtcGxhdGZvcm0tcHJvZC9hc3NldHMvY3M6OmNvbnRlbnQ6OmNoYW5uZWxzLzAtMjA0OC80MTktUm9rdS1UaHVtYm5haWxfdjEuanBn.jpg" group-title="News",Real America's Voice
+https://list.iptvcat.com/my_list/s/2e95fd53debe2dc8492dc7d7f3147745.m3u8
+#EXTINF:-1 tvg-id="Newsmax.(NEWSM).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",Newsmax
+https://list.iptvcat.com/my_list/s/0871d6e87269898a0b427fa5d1128a3c.m3u8
+#EXTINF:22,CNBC
+http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2
@@ -19,5 +25,3 @@ http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:22,Big Ten Network
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:22,CNBC
-http://fl2.moveonjoy.com/CNBC/index.m3u8
