@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jwmzn1rgkkhkg354y721"
 #EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World (1080p)" tvg-logo="https://www.nhk.or.jp/j-melo/nhkworld/images_new_top/nhkworld_japan_logo.png" group-title="Culture",NHK World (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-id="MPT PBS" tvg-name="MPT PBS (1080p)" tvg-logo="http://baltimoremediablog.com/wp-content/uploads/2015/03/MPT.jpg" group-title="Culture",MPT PBS (1080p)
+#EXTINF:-1 tvg-id="PBS.(WWPB).Hagerstown,.MD.us" tvg-name="MPT PBS (1080p)" tvg-logo="http://baltimoremediablog.com/wp-content/uploads/2015/03/MPT.jpg" group-title="Culture",MPT PBS (1080p)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-id="MPT2" tvg-name="MPT2 (1080p)" tvg-logo="https://image.pbs.org/bento3-prod/mpt-bento-live-pbs/circle_logos/124b8f4dd9_circle_logo_mpt2.png" group-title="Culture",MPT2 (1080p)
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
@@ -11,17 +11,17 @@ https://list.iptvcat.com/my_list/s/da56539be9622418f55db5cf487f8358.m3u8
 https://list.iptvcat.com/my_list/s/2e95fd53debe2dc8492dc7d7f3147745.m3u8
 #EXTINF:-1 tvg-id="Newsmax.(NEWSM).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",Newsmax
 https://list.iptvcat.com/my_list/s/0871d6e87269898a0b427fa5d1128a3c.m3u8
-#EXTINF:22,CNBC
+#EXTINF:22 tvg-id="Consumer.News.and.Business.Channel.HDTV.(CNBCH).us" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/cnbc-logo-transparent.png" group-title="News",CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports 1
+#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2
+#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports 2
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-#EXTINF:20,CBS Sports Network
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-logo="https://logowik.com/content/uploads/images/cbs-sports-network7445.jpg" group-title="Sports",CBS Sports Network
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:24,MLB Network
+#EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="Sports",MLB Network
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:22,NFL Network
+#EXTINF:-1 tvg-id="The.NFL.Network.HDTV.(NFLHD).us" tvg-logo="http://rugbywrapup.com/wp-content/uploads/2012/04/nfl_network-logo.jpg" NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:22,Big Ten Network
+#EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(National).(BTNHD).us" tvg-logo="https://1000logos.net/wp-content/uploads/2017/09/Big-Ten-Network-Logo-2011.png" group-title="Sports",Big Ten Network
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
