@@ -15,8 +15,6 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-name="301 BBC America" tvg-logo="https://i.ibb.co/9wJyM6X/bbcamerica.png" group-title="Entertainment",301 BBC America East
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
-#EXTINF:-1 tvg-id="Outdoor.Channel.HDTV.(OUTHD).us" tvg-name="302 Outdoor Channel" tvg-logo="https://i.ibb.co/9nwtxcX/outdoorchannel.png" group-title="Entertainment",302 Outdoor Channel
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="Consumer.News.and.Business.Channel.HDTV.(CNBCH).us" tvg-name="301 CNBC" tvg-logo="https://i.ibb.co/FsgKCdr/cnbc.png" group-title="Business",401 CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-name="501 Fox Sports 1" tvg-logo="https://i.ibb.co/mh3ZKNw/fs1.png" group-title="Sports",501 Fox Sports 1
