@@ -16,7 +16,7 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="One.America.News.Network.HDTV.(East).(OANHD).us" tvg-name="204 One America News" tvg-logo="https://i.ibb.co/vYwnL5W/oan.png" group-title="News",204 One America News
 https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cable.Satellite.Public.Affairs.Network.(CSPAN).us" tvg-name="205 C-SPAN" tvg-logo="https://i.ibb.co/nnrnd78/cspan.png" group-title="News",205 C-SPAN
-https://list.iptvcat.com/my_list/s/93aa065dcadc96851b65b9d9c6b2be62.m3u8
+http://143.244.60.97/C-SPAN/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-name="301 BBC America" tvg-logo="https://i.ibb.co/9wJyM6X/bbcamerica.png" group-title="Entertainment",301 BBC America East
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
