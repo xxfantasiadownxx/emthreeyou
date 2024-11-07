@@ -4,7 +4,7 @@
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-id="Create.TV.us" tvg-name="102 Create TV" tvg-logo="https://i.ibb.co/8mrwSds/create.png" group-title="Culture",102 Create TV
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
-#EXTINF:-1 tvg-id="PBS.CLT.NHK.(WTVI2).Charlotte,.NC.us" tvg-name="103 NHK World" tvg-logo="https://i.ibb.co/WVdJ0Wh/nhk.png" group-title="Culture",103 NHK World
+#EXTINF:-1 tvg-id="NHK" tvg-name="103 NHK World" tvg-logo="https://i.ibb.co/WVdJ0Wh/nhk.png" group-title="Culture",103 NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.News.Channel.HDTV.(East).(FNCHD).us" tvg-name="201 Fox News Channel" tvg-logo="https://i.ibb.co/q1st46q/foxnews.png" group-title="News",201 Fox News Channel
