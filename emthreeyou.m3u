@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/jwmzn1rgkkhkg354y721"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="PBS.(WMPT).Annapolis,.MD.us" tvg-name="101 Maryland Public Television" tvg-logo="https://i.ibb.co/TtdNzqH/mpt.png" group-title="Culture",101 Maryland Public Television
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
