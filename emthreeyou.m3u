@@ -12,7 +12,7 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="Cable.Satellite.Public.Affairs.Network.(CSPAN).us" tvg-name="202 C-SPAN" tvg-logo="https://i.ibb.co/nnrnd78/cspan.png" group-title="News",202 C-SPAN
 http://143.244.60.97/C-SPAN/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="Fox.News.us" tvg-name="203 Fox News" tvg-logo="https://i.ibb.co/p2Bkqf9/foxnews.png" group-title="News",203 Fox News
-https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+https://list.iptvcat.com/my_list/s/db496e04431f9d194d208cb84ca1e9fb.m3u8
 
 #EXTINF:-1 tvg-id="Consumer.News.and.Business.Channel.HDTV.(CNBCH).us" tvg-name="301 CNBC" tvg-logo="https://i.ibb.co/FsgKCdr/cnbc.png" group-title="Business",301 CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
