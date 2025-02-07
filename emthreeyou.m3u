@@ -9,7 +9,7 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="FOX.(WFXT).Boston,.MA.us" tvg-name="005 Fox East" tvg-logo="https://i.ibb.co/PW0hrbj/fox.png" group-title="Local",005 Fox East
 http://143.244.60.30/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="NBC.(WRC).District.of.Columbia.us" tvg-name="4.1 NBC4 Washington DC" tvg-logo="https://i.ibb.co/wNRDYRYT/nbc.png" group-title="Local",4.1 NBC4 Washington DC
-https://list.iptvcat.com/my_list/s/ae9f1e15e2616a574f3155af75d731d9.m3u8
+https://amg00884-nbcuniversal-wanews-xumo-oamde.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NewsMax.TV.us" tvg-name="1115 Newsmax" tvg-logo="https://i.ibb.co/RbPmy0h/newsmax.png" group-title="News",1115 Newsmax
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
