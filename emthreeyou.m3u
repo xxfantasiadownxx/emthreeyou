@@ -8,8 +8,8 @@ https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="FOX.(WFXT).Boston,.MA.us" tvg-name="005 Fox East" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fox.png" group-title="Local",005 Fox East
 http://143.244.60.30/FOX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="NBC.(WMAQ).Chicago,.IL.us" tvg-name="5.1 NBC5 Chicago IL" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nbc.png" group-title="Local",4.1 NBC5 Chicago IL
-https://list.iptvcat.com/my_list/s/8e7e21d06815c6ac03b927eb8b06d16a.m3u8
+#EXTINF:-1 tvg-id="NBC.(WRC).District.of.Columbia.us" tvg-name="4.1 NBC4 Washington DC" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nbc.png" group-title="Local",4.1 NBC4 Washington DC
+https://list.iptvcat.com/my_list/s/ae9f1e15e2616a574f3155af75d731d9.m3u8
 
 #EXTINF:-1 tvg-id="NewsMax.TV.us" tvg-name="1115 Newsmax" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/newsmax.png" group-title="News",1115 Newsmax
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
