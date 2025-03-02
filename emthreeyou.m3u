@@ -1,35 +1,35 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="PBS.(WMPT).Annapolis,.MD.us" tvg-name="31.1 Maryland Public Television" tvg-logo="https://i.ibb.co/TtdNzqH/mpt.png" group-title="Culture",31.1 Maryland Public Television
+#EXTINF:-1 tvg-id="PBS.(WMPT).Annapolis,.MD.us" tvg-name="31.1 Maryland Public Television" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/mpt.png" group-title="Culture",31.1 Maryland Public Television
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-#EXTINF:-1 tvg-id="Create.TV.us" tvg-name="31.2 Create TV" tvg-logo="https://i.ibb.co/8mrwSds/create.png" group-title="Culture",31.2 Create TV
+#EXTINF:-1 tvg-id="Create.TV.us" tvg-name="31.2 Create TV" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/create.png" group-title="Culture",31.2 Create TV
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
-#EXTINF:-1 tvg-id="PBS.CLT.NHK.(WTVI2).Charlotte,.NC.us" tvg-name="31.4 NHK World" tvg-logo="https://i.ibb.co/WVdJ0Wh/nhk.png" group-title="Culture",31.4 NHK World
+#EXTINF:-1 tvg-id="PBS.CLT.NHK.(WTVI2).Charlotte,.NC.us" tvg-name="31.4 NHK World" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nhk.png" group-title="Culture",31.4 NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-id="FOX.(WFXT).Boston,.MA.us" tvg-name="005 Fox East" tvg-logo="https://i.ibb.co/PW0hrbj/fox.png" group-title="Local",005 Fox East
+#EXTINF:-1 tvg-id="FOX.(WFXT).Boston,.MA.us" tvg-name="005 Fox East" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fox.png" group-title="Local",005 Fox East
 http://143.244.60.30/FOX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="NBC.(WRC).District.of.Columbia.us" tvg-name="4.1 NBC4 Washington DC" tvg-logo="https://i.ibb.co/wNRDYRYT/nbc.png" group-title="Local",4.1 NBC4 Washington DC
+#EXTINF:-1 tvg-id="NBC.(WRC).District.of.Columbia.us" tvg-name="4.1 NBC4 Washington DC" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nbc.png" group-title="Local",4.1 NBC4 Washington DC
 https://list.iptvcat.com/my_list/s/ae9f1e15e2616a574f3155af75d731d9.m3u8
 
-#EXTINF:-1 tvg-id="NewsMax.TV.us" tvg-name="1115 Newsmax" tvg-logo="https://i.ibb.co/RbPmy0h/newsmax.png" group-title="News",1115 Newsmax
+#EXTINF:-1 tvg-id="NewsMax.TV.us" tvg-name="1115 Newsmax" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/newsmax.png" group-title="News",1115 Newsmax
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="C-SPAN.us" tvg-name="1128 C-SPAN" tvg-logo="https://i.ibb.co/nnrnd78/cspan.png" group-title="News",1128 C-SPAN
+#EXTINF:-1 tvg-id="C-SPAN.us" tvg-name="1128 C-SPAN" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cspan.png" group-title="News",1128 C-SPAN
 http://143.244.60.97/C-SPAN/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="Fox.News.us" tvg-name="820 Fox News" tvg-logo="https://i.postimg.cc/zvz1BLhx/fnc.png" group-title="News",820 Fox News
+#EXTINF:-1 tvg-id="Fox.News.us" tvg-name="820 Fox News" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fnc.png" group-title="News",820 Fox News
 https://usher.ttvnw.net/api/channel/hls/n3mloba3.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiNDFlMWYzZTAtZWNjMy00MzE3LTg1NWUtZGVhNjhmM2I4NmExIn0%3D&allow_source=true&browser_family=firefox&browser_version=135.0&cdm=wv&enable_score=true&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=5177695&parent_domains=twitchplayer&platform=web&play_session_id=98074d058bd500bccf6fa291cbd4d8d5&player_backend=mediaplayer&player_version=1.38.0-rc.2&playlist_include_framerate=true&reassignments_supported=true&sig=6591b1c25f7b3569875be01d93a54f76e2250bf4&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22n3mloba3%22%2C%22channel_id%22%3A1095355349%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22407b4b8c3a8be60b%22%2C%22expires%22%3A1740930707%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.214.94.29%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
 
-#EXTINF:-1 tvg-id="CNBC.USA.us" tvg-name="819 CNBC" tvg-logo="https://i.ibb.co/FsgKCdr/cnbc.png" group-title="Business",819 CNBC
+#EXTINF:-1 tvg-id="CNBC.USA.us" tvg-name="819 CNBC" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cnbc.png" group-title="Business",819 CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
 
-#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="1208 Fox Sports 1" tvg-logo="https://i.ibb.co/mh3ZKNw/fs1.png" group-title="Sports",1208 Fox Sports 1
+#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="1208 Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs1.png" group-title="Sports",1208 Fox Sports 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="1209 Fox Sports 2" tvg-logo="https://i.ibb.co/sQb9WKX/fs2.png" group-title="Sports",1209 Fox Sports 2
+#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="1209 Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs2.png" group-title="Sports",1209 Fox Sports 2
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-name="1303 CBS Sports Network" tvg-logo="https://i.ibb.co/m5mRcZ3/cbssn.png" group-title="Sports",1303 CBS Sports Network
+#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-name="1303 CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cbssn.png" group-title="Sports",1303 CBS Sports Network
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-name="1219 MLB Network" tvg-logo="https://i.ibb.co/CWmWYtd/mlb.png" group-title="Sports",1219 MLB Network
+#EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-name="1219 MLB Network" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/mlb.png" group-title="Sports",1219 MLB Network
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Network.us" tvg-name="1215 The NFL Network" tvg-logo="https://i.ibb.co/yWWX2nV/nfl.png" group-title="Sports",1215 The NFL Network
+#EXTINF:-1 tvg-id="NFL.Network.us" tvg-name="1215 The NFL Network" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nfl.png" group-title="Sports",1215 The NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Big.Ten.Network.us" tvg-name="1313 Big Ten Network" tvg-logo="https://i.ibb.co/S3WBPPW/btn.png" group-title="Sports",1313 Big Ten Network
+#EXTINF:-1 tvg-id="Big.Ten.Network.us" tvg-name="1313 Big Ten Network" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/btn.png" group-title="Sports",1313 Big Ten Network
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
