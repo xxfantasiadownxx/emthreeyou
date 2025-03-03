@@ -9,7 +9,7 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="FOX.(WFXT).Boston,.MA.us" tvg-name="005 Fox East" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fox.png" group-title="Local",005 Fox East
 http://143.244.60.30/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="NBC.(WLIO).Lima,.OH.us" tvg-name="5.1 WLIO NBC" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nbc.png" group-title="Local",5.1 WLIO NBC
-https://list.iptvcat.com/my_list/s/9336d709e9a61c0b90cfbf8759412f3c.m3u8
+https://live.field59.com/wlio/wlio1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" tvg-name="829 SyFy" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/sf.png" group-title="Local",829 SyFy
 http://fl2.moveonjoy.com/SYFY/index.m3u8
