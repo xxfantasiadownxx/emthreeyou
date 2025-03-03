@@ -10,7 +10,7 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 http://143.244.60.30/FOX_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" tvg-name="829 SyFy" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/sf.png" group-title="Local",829 SyFy
-https://list.iptvcat.com/my_list/s/bab349944a5d7d4ac07b4f660d1010eb.m3u8
+http://fl2.moveonjoy.com/SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id="NewsMax.TV.us" tvg-name="1115 Newsmax" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/newsmax.png" group-title="News",1115 Newsmax
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
