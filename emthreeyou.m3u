@@ -26,7 +26,7 @@ http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="1208 Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs1.png" group-title="Sports",1208 Fox Sports 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="1209 Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs2.png" group-title="Sports",1209 Fox Sports 2
-http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-name="1303 CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cbssn.png" group-title="Sports",1303 CBS Sports Network
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-name="1219 MLB Network" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/mlb.png" group-title="Sports",1219 MLB Network
