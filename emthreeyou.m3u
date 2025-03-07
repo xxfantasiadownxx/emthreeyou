@@ -7,9 +7,9 @@ https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 #EXTINF:-1 tvg-id="PBS.CLT.NHK.(WTVI2).Charlotte,.NC.us" tvg-name="31.4 NHK World" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nhk.png" group-title="Culture",31.4 NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="FOX.(WFXT).Boston,.MA.us" tvg-name="005 Fox East" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fox.png" group-title="Local",005 Fox East
-http://143.244.60.30/FOX_EAST/index.m3u8
+https://amg00327-coxmediagroup-wfxtnow-ono-00yau.amagi.tv/playlist/amg00327-coxmediagroup-wfxtnow-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="4 WNBC NBC" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nbc.png" group-title="Local",4 WNBC NBC
-https://live.field59.com/wlio/wlio1/playlist.m3u8
+http://50.7.234.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
 
 #EXTINF:-1 tvg-id="NewsMax.TV.us" tvg-name="1115 Newsmax" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/newsmax.png" group-title="News",1115 Newsmax
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
