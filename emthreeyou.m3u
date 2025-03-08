@@ -22,10 +22,6 @@ http://50.7.234.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19
 
 #EXTINF:-1 tvg-id="CNBC.USA.us" tvg-name="819 CNBC" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cnbc.png" group-title="Business",819 CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-name="820 National Geographic" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/ng.png" group-title="Business",820 National Geographic
-http://fl2.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 tvg-id="National.Geographic.Wild.us" tvg-name="821 NatGeo Wild" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/ngw.png" group-title="Business",821 NatGeo Wild
-http://109.233.89.166/National_Geographic_Wild_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="1208 Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs1.png" group-title="Sports",1208 Fox Sports 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
