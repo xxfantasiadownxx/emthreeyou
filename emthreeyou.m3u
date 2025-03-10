@@ -12,7 +12,7 @@ https://apollo.production-public.tubi.io/live/ac-wttg.m3u8
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="WPIX.New.York.(SUPERSTATION).us" tvg-name="11 WPIX CW" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cw.png" group-title="Local",11 WPIX CW
 https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
-#EXTINF:-1 tvg-id="NBC.(WPXI).Pittsburgh,.PA.us" tvg-name="WPXI 11 NBC" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nbc.png" group-title="Local",11 WPIX NBC
+#EXTINF:-1 tvg-id="NBC.(WPXI).Pittsburgh,.PA.us" tvg-name="WPXI 11 NBC" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wpxi.png" group-title="Local",11 WPIX NBC
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NewsMax.TV.us" tvg-name="1115 Newsmax" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/newsmax.png" group-title="News",1115 Newsmax
