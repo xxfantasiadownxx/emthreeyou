@@ -15,7 +15,7 @@ https://cvtv.cvalley.net/hls/KCWECW/live/pkgKCWECWHi.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-id="Create.TV.us" tvg-name="31.2 Create TV" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/create.png" group-title="Culture",31.2 Create TV
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
-#EXTINF:-1 tvg-id="PBS.CLT.NHK.(WTVI2).Charlotte,.NC.us" tvg-name="31.4 NHK World" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nhk.png" group-title="Culture",31.4 NHK World
+#EXTINF:-1 tvg-id="NHK World.us" tvg-name="31.4 NHK World" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nhk.png" group-title="Culture",31.4 NHK World
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 
 #EXTINF:-1 tvg-id="CNBC.USA.us" tvg-name="819 CNBC" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cnbc.png" group-title="Business",819 CNBC
