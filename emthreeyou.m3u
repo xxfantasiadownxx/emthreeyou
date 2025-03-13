@@ -23,13 +23,9 @@ http://fl2.moveonjoy.com/CNBC/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.News.us" tvg-name="820 Fox News" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fnc.png" group-title="News",820 Fox News
 http://50.7.234.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
-#EXTINF:-1 tvg-id="NewsMax.TV.us" tvg-name="1115 Newsmax" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/newsmax.png" group-title="News",1115 Newsmax
-https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="C-SPAN.us" tvg-name="1128 C-SPAN" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cspan.png" group-title="News",1128 C-SPAN
 http://143.244.60.97/C-SPAN/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="MavTV.USA.us" tvg-name="1200 MavTV" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/mavtv.png" group-title="Sports",1200 MavTV
-http://xxip25.top:8080/7686199/9576982/20977
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="1205 ESPN HD" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/espn.png" group-title="Sports",1205 ESPN HD
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="1208 Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs1.png" group-title="Sports",1208 Fox Sports 1
