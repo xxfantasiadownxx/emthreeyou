@@ -4,10 +4,10 @@
 https://apollo.production-public.tubi.io/live/ac-wmar.m3u8
 #EXTINF:-1 tvg-id="NBC.(WRC).District.of.Columbia.us" tvg-name="4 WRC NBC" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wrc.png" group-title="Local",4 WRC NBC
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="FOX.(WDAF).Kansas.City,.MO.us" tvg-name="4 WDAF Fox4" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wdaf.png" group-title="Local",4 WDAF Fox4
+https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
 #EXTINF:-1 tvg-id="FOX.(WTTG).District.of.Columbia.us" tvg-name="5 WTTG Fox5 DC" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wttg.png" group-title="Local",5 WTTG Fox5 DC
 https://apollo.production-public.tubi.io/live/ac-wttg.m3u8
-#EXTINF:-1 tvg-id="NBC.(WLIO).Lima,.OH.us" tvg-name="8 WLIO NBC" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wlio.png" group-title="Local",8 WLIO NBC
-https://live.field59.com/wlio/wlio1/playlist.m3u8
 #EXTINF:-1 tvg-id="CW.(KCWE).Kansas.City,.MO.us" tvg-name="29 KCWE CW" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/kcwe.png" group-title="Local",29 KCWE CW
 https://cvtv.cvalley.net/hls/KCWECW/live/pkgKCWECWHi.m3u8
 
@@ -28,6 +28,8 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="C-SPAN.us" tvg-name="1128 C-SPAN" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cspan.png" group-title="News",1128 C-SPAN
 http://143.244.60.97/C-SPAN/index.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-id="MavTV.USA.us" tvg-name="1200 MavTV" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/mavtv.png" group-title="Sports",1200 MavTV
+http://xxip25.top:8080/7686199/9576982/20977
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="1205 ESPN HD" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/espn.png" group-title="Sports",1205 ESPN HD
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="1208 Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs1.png" group-title="Sports",1208 Fox Sports 1
