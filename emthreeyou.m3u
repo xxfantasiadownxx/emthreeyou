@@ -6,8 +6,6 @@ https://apollo.production-public.tubi.io/live/ac-wmar.m3u8
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="FOX.(WTTG).District.of.Columbia.us" tvg-name="5 WTTG Fox5 DC" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wttg.png" group-title="Local",5 WTTG Fox5 DC
 https://apollo.production-public.tubi.io/live/ac-wttg.m3u8
-#EXTINF:-1 tvg-id="NBC.(WXIA).Atlanta,.GA.us" tvg-name="11 WXIA 11 NBC" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wxia.png" group-title="Local",11 WXIA 11 NBC
-https://livevideo01.11alive.com/hls/live/2015499/elvs/index_1.m3u8
 #EXTINF:-1 tvg-id="CW.(KCWE).Kansas.City,.MO.us" tvg-name="29 KCWE CW" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/kcwe.png" group-title="Local",29 KCWE CW
 https://cvtv.cvalley.net/hls/KCWECW/live/pkgKCWECWHi.m3u8
 
