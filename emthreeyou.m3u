@@ -28,15 +28,9 @@ http://143.244.60.97/C-SPAN/index.m3u8?checkedby:iptvcat.com
 http://doubleclicktv.live:80/70376812/52663544/972
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="1205 ESPN HD" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/espn.png" group-title="Sports",1205 ESPN HD
 http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="1208 Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs1.png" group-title="Sports",1208 Fox Sports 1
-http://192.168.0.120:8000/channels/310.m3u8
-#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="1209 Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs2.png" group-title="Sports",1209 Fox Sports 2
-http://192.168.0.120:8000/channels/311.m3u8
 #EXTINF:-1 tvg-id="NFL.Network.us" tvg-name="1215 The NFL Network" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nfl.png" group-title="Sports",1215 The NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-name="1219 MLB Network" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/mlb.png" group-title="Sports",1219 MLB Network
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-name="1303 CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cbssn.png" group-title="Sports",1303 CBS Sports Network
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Big.Ten.Network.us" tvg-name="1313 Big Ten Network" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/btn.png" group-title="Sports",1313 Big Ten Network
-http://192.168.0.120:8000/channels/312.m3u8
