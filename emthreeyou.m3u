@@ -25,11 +25,11 @@ https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 http://143.244.60.97/C-SPAN/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="SportsNet.Pittsburgh.us" tvg-name="843 Sportsnet Pittsburgh" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/snp.png" group-title="Sports",843 Sportsnet Pittsburgh
-https://v16.thetvapp.to/hls/sportsnet-pittsburgh/tracks-v2a1/mono.m3u8?token=2zkQKgLPQR4Gg75ObQDUXw&expires=1747536008&user_id=UFRFTGhoUnNBRjEwTHZjdXBjWVBkejRRcGRQbjVmRU5iOFFSSEJ6ZA==
+https://v8.thetvapp.to/hls/sportsnet-pittsburgh/tracks-v2a1/mono.m3u8?token=QBIywReqHgHNXG8zBPiR1w&expires=1747612351&user_id=UjJHMHh2OHUxemtxWnNSTEt2OXBtQTRFazVMSUZTRHRhaE5kUHR3UA==
 #EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="1208 Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs1.png" group-title="Sports",1208 Fox Sports 1
-https://tvpass.org/live/FoxSports1/sd
+https://ft.fbcdntv247.cfd/memfs/f140c459-525b-4cd6-b3ad-92d274d78903_output_0.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="1209 Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs2.png" group-title="Sports",1209 Fox Sports 2
-https://tvpass.org/live/FoxSports2/sd
+https://ft.fbcdntv247.cfd/memfs/b97d13a4-fd30-434e-9e23-2cbd03687c1f.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="1205 ESPN HD" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/espn.png" group-title="Sports",1205 ESPN HD
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Network.us" tvg-name="1215 The NFL Network" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nfl.png" group-title="Sports",1215 The NFL Network
