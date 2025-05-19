@@ -1,10 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="SportsNet.Pittsburgh.us" tvg-name="47 Sportsnet Pittsburgh" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/snp.png" group-title="Sports",47 Sportsnet Pittsburgh
+#EXTINF:-1 tvg-id="SportsNet.Pittsburgh.us" tvg-name="47 Sportsnet Pittsburgh" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/snp.png" group-title="Sports",47 Sportsnet Pittsburgh SD
 https://tvpass.org/live/sportsnet-pittsburgh/sd
-#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="32 Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs1.png" group-title="Sports",32 Fox Sports 1
+#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="32 Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs1.png" group-title="Sports",32 Fox Sports 1 SD
 https://tvpass.org/live/FoxSports1/sd
-#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="268 Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs2.png" group-title="Sports",268 Fox Sports 2
+#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="268 Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs2.png" group-title="Sports",268 Fox Sports 2 SD
 https://tvpass.org/live/FoxSports2/sd
-#EXTINF:-1 tvg-id="Big.Ten.Network.us" tvg-name="77 B1G Network" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/btn.png" group-title="Local",77 B1G Network
-https://v1.thetvapp.to/hls/BTN/tracks-v2a1/mono.m3u8?token=gOpb93_jvjsVQmyIvVND9w&expires=1747536105&user_id=UFRFTGhoUnNBRjEwTHZjdXBjWVBkejRRcGRQbjVmRU5iOFFSSEJ6ZA==
