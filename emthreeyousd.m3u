@@ -2,8 +2,6 @@
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="7.1 WABC NY" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wabcsd.png" group-title="Local",7.1 WABC NY
 https://tvpass.org/live/WABCDT1/sd
-#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="27.1 WNYW Fox NY" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wnywsd.png" group-title="Local",27.1 WNYW Fox NY
-https://tvpass.org/live/WNYWDT1/sd
 #EXTINF:-1 tvg-id="SportsNet.Pittsburgh.us" tvg-name="843.1 Sportsnet Pittsburgh" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/snp.png" group-title="Sports",843.1 Sportsnet Pittsburgh SD
 https://tvpass.org/live/sportsnet-pittsburgh/sd
 #EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="1208.1 Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs1.png" group-title="Sports",1208.1 Fox Sports 1 SD
