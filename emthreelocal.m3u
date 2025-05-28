@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="30 WABE Atlanta PBS" tvg-logo="img.jpg" group-title="Local",30 WABE Atlanta PBS
-https://live20.bozztv.com/dvrfl05/gin-peachtree/index.m3u8
-
 #EXTINF:-1 tvg-id="FOX.(WAGA).Atlanta,.GA.us" tvg-name="5 WAGA Atlanta Fox" tvg-logo="img.jpg" group-title="Local",5 WAGA Atlanta Fox
 https://live20.bozztv.com/dvrfl05/gin-fox5/index.m3u8
 
@@ -11,9 +8,6 @@ https://tvpass.org/live/WCBSDT1/hd
 
 #EXTINF:-1 tvg-id="CBS.(WGCL).Atlanta,.GA.us" tvg-name="46 WGCL Atlanta CBS" tvg-logo="img.jpg" group-title="Local",46 WGCL Atlanta CBS
 https://live20.bozztv.com/dvrfl05/gin-cbs/index.m3u8
-
-#EXTINF:-1 tvg-id="CBS.(WHIO).Dayton,.OH.us" tvg-name="7 WHIO Ohio CBS" tvg-logo="img.jpg" group-title="Local",7 WHIO Ohio CBS
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="4 WNBC New York NBC" tvg-logo="img.jpg" group-title="Local",4 WNBC New York NBC
 https://fl1.moveonjoy.com/NBC_EAST/index.m3u8
