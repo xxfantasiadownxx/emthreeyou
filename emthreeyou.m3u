@@ -2,8 +2,8 @@
 
 #EXTINF:-1 tvg-id="NBC.(WRC).District.of.Columbia.us" tvg-name="4 WRC NBC" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wrc.png" group-title="Local",4 WRC NBC
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="7 WABC NY" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wabc.png" group-title="Local",7 WABC NY
-https://tvpass.org/live/WABCDT1/hd
+#EXTINF:-1 tvg-id="ABC.(WOLO).Columbia,.SC.us" tvg-name="25 WOLO SC ABC" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wolo.png" group-title="Local",25 WOLO SC ABC
+http://143.244.60.30/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="FOX.(WTTG).District.of.Columbia.us" tvg-name="5 WTTG Fox5 DC" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wttg.png" group-title="Local",5 WTTG Fox5 DC
 http://38.96.178.201:80/live/FOXHD/index.m3u8
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="27 WNYW Fox NY" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wnyw.png" group-title="Local",27 WNYW Fox NY
@@ -20,8 +20,6 @@ https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 
 #EXTINF:-1 tvg-id="CNBC.USA.us" tvg-name="819 CNBC" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cnbc.png" group-title="Business",819 CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="831 A&E" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/ae.png" group-title="Business",831 A&E
-https://tvpass.org/live/AEEast/hd
 
 #EXTINF:-1 tvg-id="Fox.News.us" tvg-name="820 Fox News" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fnc.png" group-title="News",820 Fox News
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
