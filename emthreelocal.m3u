@@ -12,11 +12,5 @@ https://live20.bozztv.com/dvrfl05/gin-cbs/index.m3u8
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="4 WNBC New York NBC" tvg-logo="img.jpg" group-title="Local",4 WNBC New York NBC
 https://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 
-#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="5 WNYW New York Fox" tvg-logo="img.jpg" group-title="Local",5 WNYW New York Fox
-https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-
-#EXTINF:-1 tvg-id="ABC.(WOLO).Columbia,.SC.us" tvg-name="25 WOLO SC ABC" tvg-logo="img.jpg" group-title="Local",25 WOLO SC ABC
-http://143.244.60.30/ABC_EAST/index.m3u8
-
 #EXTINF:-1 tvg-id="FOX.(WTTG).District.of.Columbia.us" tvg-name="5 WTTG DC Fox" tvg-logo="img.jpg" group-title="Local",5 WTTG DC Fox
 https://apollo.production-public.tubi.io/live/ac-wttg.m3u8
