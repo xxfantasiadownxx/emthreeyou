@@ -18,9 +18,9 @@ https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 #EXTINF:-1 tvg-id="NHK World.us" tvg-name="31.4 NHK World" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nhk.png" group-title="Culture",31.4 NHK World
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 
-#EXTINF:-1 tvg-id="CNBC.USA.us" tvg-name="199 BUZZR" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/buzzr.png" group-title="Business",199 BUZZR
+#EXTINF:-1 tvg-id="Buzzr.us" tvg-name="199 BUZZR" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/buzzr.png" group-title="Business",199 BUZZR
 https://fl3.moveonjoy.com/Buzzr/index.m3u8
-#EXTINF:-1 tvg-id="Buzzr.us" tvg-name="819 CNBC" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cnbc.png" group-title="Business",819 CNBC
+#EXTINF:-1 tvg-id="CNBC.USA.us" tvg-name="819 CNBC" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cnbc.png" group-title="Business",819 CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-name="823 USA Network" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/usa.png" group-title="Business",823 USA Network
 http://fl3.moveonjoy.com/USA_NETWORK/index.m3u8
