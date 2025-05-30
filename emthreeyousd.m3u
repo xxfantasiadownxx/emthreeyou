@@ -3,6 +3,6 @@
 #EXTINF:-1 tvg-id="SportsNet.Pittsburgh.us" tvg-name="843.1 Sportsnet Pittsburgh" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/snp.png" group-title="Sports",843.1 Sportsnet Pittsburgh SD
 https://tvpass.org/live/sportsnet-pittsburgh/sd
 #EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="1208.1 Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs1.png" group-title="Sports",1208.1 Fox Sports 1 SD
-https://tvpass.org/live/FoxSports1/sd
+https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="1209.1 Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs2.png" group-title="Sports",1209.1 Fox Sports 2 SD
 https://tvpass.org/live/FoxSports2/sd
