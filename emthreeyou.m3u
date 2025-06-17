@@ -36,9 +36,5 @@ https://tvpass.org/live/sportsnet-pittsburgh/hd
 https://tvpass.org/live/FoxSports1/hd
 #EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="1209 Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs2hd.png" group-title="Sports",1209 Fox Sports 2
 https://tvpass.org/live/FoxSports2/hd
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="1205 ESPN HD" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/espn.png" group-title="Sports",1205 ESPN HD
-http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-name="1303 CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cbssn.png" group-title="Sports",1303 CBS Sports Network
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Big.Ten.Network.us" tvg-name="1313 B1G Network" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/btn.png" group-title="Local",1303 B1G Network
-https://v1.thetvapp.to/hls/BTN/tracks-v2a1/mono.m3u8?token=gOpb93_jvjsVQmyIvVND9w&expires=1747536105&user_id=UFRFTGhoUnNBRjEwTHZjdXBjWVBkejRRcGRQbjVmRU5iOFFSSEJ6ZA==
+https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
