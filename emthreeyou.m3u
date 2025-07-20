@@ -25,7 +25,7 @@ http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-name="823 USA Network" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/usa.png" group-title="Business",823 USA Network
 http://fl3.moveonjoy.com/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="825 TNT" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/tnt.png" group-title="Television",825 TNT
-http://38.96.178.201:80/live/TNTHD/index.m3u8
+http://fl3.moveonjoy.com/TNT/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.News.us" tvg-name="820 Fox News" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fnc.png" group-title="News",820 Fox News
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
