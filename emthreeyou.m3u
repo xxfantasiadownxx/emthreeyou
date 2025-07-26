@@ -9,7 +9,7 @@ http://38.96.178.201:80/live/FOXHD/index.m3u8
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="27 WNYW Fox" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wnyw.png" group-title="Local",27 WNYW Fox NY
 https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="CW.(KCWE).Kansas.City,.MO.us" tvg-name="29 KCWE CW" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/kcwe.png" group-title="Local",29 KCWE CW
-https://cvtv.cvalley.net/hls/KCWECW/live/pkgKCWECWHi.m3u8
+https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
 
 #EXTINF:-1 tvg-id="PBS.(WMPT).Annapolis,.MD.us" tvg-name="31.1 Maryland Public Television" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/mpt.png" group-title="Culture",31.1 Maryland Public Television
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
