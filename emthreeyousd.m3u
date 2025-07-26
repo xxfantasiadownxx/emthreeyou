@@ -1,5 +1,8 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="CW.(WDCW).District.of.Columbia.us" tvg-name="3.1 WDCW CW" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wdcw.png" group-title="Local",3 WDCW CW
+https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
 #EXTINF:-1 tvg-id="SportsNet.Pittsburgh.us" tvg-name="843.1 Sportsnet Pittsburgh" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/snp.png" group-title="Sports",843.1 Sportsnet Pittsburgh SD
 https://tvpass.org/live/sportsnet-pittsburgh/sd
 #EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="1208.1 Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs1.png" group-title="Sports",1208.1 Fox Sports 1 SD
