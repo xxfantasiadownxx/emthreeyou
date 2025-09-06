@@ -24,7 +24,7 @@ http://fl4.moveonjoy.com/USA_NETWORK/index.m3u8
 http://fl3.moveonjoy.com/TNT/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox News.us" tvg-name="820 Fox News" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fnc.png" group-title="News",820 Fox News
-https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+https://fl6.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="C-SPAN.us" tvg-name="1128 C-SPAN" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cspan.png" group-title="News",1128 C-SPAN
 http://143.244.60.97/C-SPAN/index.m3u8?checkedby:iptvcat.com
 
@@ -34,5 +34,7 @@ https://tvpass.org/live/sportsnet-pittsburgh/hd
 https://fl4.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 2.us" tvg-name="1209 Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs2.png" group-title="Sports",1209 Fox Sports 2
 http://23.237.104.106:8080/USA_FS2/index.m3u8
+#EXTINF:-1 tvg-id="Motor Trend HDTV.us" tvg-name="1243 Motor Trend" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/mt.png" group-title="Sports",1243 Motor Trend
+http://104.255.88.155/motortrend/index.m3u8
 #EXTINF:-1 tvg-id="CBS Sports Network.us" tvg-name="1303 CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cbssn.png" group-title="Sports",1303 CBS Sports Network
 https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
