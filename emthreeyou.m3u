@@ -13,7 +13,7 @@ https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-id="Create.TV.us" tvg-name="31.2 Create TV" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/create.png" group-title="Culture",31.2 Create TV
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
-#EXTINF:-1 tvg-id="NHK World-Japan HDTV (English).us" tvg-name="31.4 NHK World" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nhk.png" group-title="Culture",31.4 NHK World
+#EXTINF:-1 tvg-id="NHK World.us" tvg-name="31.4 NHK World" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nhk.png" group-title="Culture",31.4 NHK World
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 
 #EXTINF:-1 tvg-id="Buzzr.TV.us" tvg-name="199 BUZZR" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/buzzr.png" group-title="Business",199 BUZZR
@@ -36,7 +36,7 @@ https://fl4.moveonjoy.com/FOX_Sports_1/index.m3u8
 http://23.237.104.106:8080/USA_FS2/index.m3u8
 #EXTINF:-1 tvg-id="Motor.Trend.HD.us" tvg-name="1243 Motor Trend" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/mt.png" group-title="Sports",1243 Motor Trend
 http://104.255.88.155/motortrend/index.m3u8
-#EXTINF:-1 tvg-id="Mav TV HDTV.us" tvg-name="1244 MAV TV" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/mavtv.png" group-title="Sports",1244 MAV TV
+#EXTINF:-1 tvg-id="MAVTV.us" tvg-name="1244 MAV TV" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/mavtv.png" group-title="Sports",1244 MAV TV
 https://fl5.moveonjoy.com/MAV_TV/index.m3u8
 #EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-name="1303 CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cbssn.png" group-title="Sports",1303 CBS Sports Network
 https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
