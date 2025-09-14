@@ -21,7 +21,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58
 #EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-name="823 USA Network" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/usa.png" group-title="Business",823 USA Network
 http://fl4.moveonjoy.com/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="825 TNT" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/tnt.png" group-title="Television",825 TNT
-http://fl3.moveonjoy.com/TNT/index.m3u8
+http://fl4.moveonjoy.com/TNT/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.News.us" tvg-name="1110 Fox News" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fnc.png" group-title="News",1110 Fox News
 https://fl4.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
