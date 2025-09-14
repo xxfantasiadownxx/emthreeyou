@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="WRCDT.us" tvg-name="4 WRC NBC" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wrc.png" group-title="Local",4 WRC NBC
-http://fl4.moveonjoy.com/NBC_EAST/index.m3u8
+http://fl6.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="WABC.us" tvg-name="7 WABC ABC" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wabc.png" group-title="Local",7 WABC ABC
 https://fl4.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="WGNDT.us" tvg-name="9 WGN Chicago CW" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wgn.png" group-title="Local",9 WGN Chicago CW
