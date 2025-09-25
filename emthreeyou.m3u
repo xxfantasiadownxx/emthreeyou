@@ -9,10 +9,6 @@ https://fl7.moveonjoy.com/WGN/index.m3u8
 #EXTINF:-1 tvg-id="WNYW-DT.us_locals1" tvg-name="27 WNYW Fox" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wnyw.png" group-title="Local",27 WNYW Fox NY
 https://fl7.moveonjoy.com/FOX_EAST/index.m3u8
 
-#EXTINF:-1 tvg-id="WMPT-DT.us_locals1" tvg-name="31.1 Maryland Public Television" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/mpt.png" group-title="Culture",31.1 Maryland Public Television
-https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-#EXTINF:-1 tvg-id="Create.TV.us" tvg-name="31.2 Create TV" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/create.png" group-title="Culture",31.2 Create TV
-https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 #EXTINF:-1 tvg-id="NHK.World.TV.us2" tvg-name="31.4 NHK World" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nhk.png" group-title="Culture",31.4 NHK World
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 
@@ -34,8 +30,6 @@ https://fl7.moveonjoy.com/C-SPAN/index.m3u8
 http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/19156/index.m3u8
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="1208 Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs1.png" group-title="Sports",1208 Fox Sports 1
 https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="1209 Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs2.png" group-title="Sports",1209 Fox Sports 2
-http://23.237.104.106:8080/USA_FS2/index.m3u8
 #EXTINF:-1 tvg-id="MOTORTREND.HD.us2" tvg-name="1243 Motor Trend" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/mt.png" group-title="Sports",1243 Motor Trend
 http://104.255.88.155/motortrend/index.m3u8
 #EXTINF:-1 tvg-id="RACER.Network.HD.us2" tvg-name="1244 RACER Network" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/racer.png" group-title="Sports",1244 RACER Network
