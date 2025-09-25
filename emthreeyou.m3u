@@ -40,5 +40,7 @@ http://23.237.104.106:8080/USA_FS2/index.m3u8
 http://104.255.88.155/motortrend/index.m3u8
 #EXTINF:-1 tvg-id="RACER.Network.HD.us2" tvg-name="1244 RACER Network" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/racer.png" group-title="Sports",1244 RACER Network
 https://fl7.moveonjoy.com/MAV_TV/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="1245 Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/ssf1.png" group-title="Sports",1245 Sky Sports F1
+http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/7342/index.m3u8
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="1303 CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cbssn.png" group-title="Sports",1303 CBS Sports Network
 https://fl7.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
