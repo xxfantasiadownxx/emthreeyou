@@ -22,14 +22,14 @@ http://fl7.moveonjoy.com/TNT/index.m3u8
 https://fl7.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox News.us" tvg-name="1110 Fox News" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fnc.png" group-title="News",1110 Fox News
-https://fl7.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+https://tvpass.org/live/FoxNewsChannel/hd
 #EXTINF:-1 tvg-id="C-SPAN.us" tvg-name="1128 C-SPAN" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cspan.png" group-title="News",1128 C-SPAN
 https://fl7.moveonjoy.com/C-SPAN/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="1205 ESPN" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/espn.png" group-title="Sports",1205 ESPN
 http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/19156/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 1.us" tvg-name="1208 Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs1.png" group-title="Sports",1208 Fox Sports 1
-https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
+https://tvpass.org/live/FoxSports1/hd
 #EXTINF:-1 tvg-id="Motor Trend HDTV.us" tvg-name="1243 Motor Trend" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/mt.png" group-title="Sports",1243 Motor Trend
 http://104.255.88.155/motortrend/index.m3u8
 #EXTINF:-1 tvg-id="RACER.Network.us" tvg-name="1244 RACER Network" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/racer.png" group-title="Sports",1244 RACER Network
