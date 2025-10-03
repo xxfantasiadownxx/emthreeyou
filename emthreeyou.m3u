@@ -10,7 +10,7 @@ https://fl25.moveonjoy.com/WGN/index.m3u8
 https://fl25.moveonjoy.com/FOX_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="NHK World.us" tvg-name="31.4 NHK World" tvg-chno="31.4" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nhk.png" group-title="Culture",31.4 NHK World
-https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
+https://media-tyo.hls.nhkworld.jp/hls/w/live/o-master.m3u8
 
 #EXTINF:-1 tvg-id="Buzzr.us" tvg-name="199 BUZZR" tvg-chno="199" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/buzzr.png" group-title="Entertainment",199 BUZZR
 https://fl25.moveonjoy.com/Buzzr/index.m3u8
