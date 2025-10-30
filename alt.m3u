@@ -19,7 +19,7 @@ https://tvpass.org/live/USANetworkEast/hd
 https://tvpass.org/live/TNTEast/hd
 
 #EXTINF:-1 tvg-id="Fox News.us" tvg-name="1110 Fox News" tvg-chno="1110" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fnc.png" group-title="News",1110 Fox News
-https://livetvde.net/k12/index.m3u8?token=7bb2f246ca60505fa74d31d24695b934d9a53913-ed5db9cb8230445459f70fb38ef87837-1761665161-1761654361
+https://tvpass.org/live/FoxNewsChannel/hd
 #EXTINF:-1 tvg-id="C-SPAN.us" tvg-name="1128 C-SPAN" tvg-chno="1128" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cspan.png" group-title="News",1128 C-SPAN
 https://tvpass.org/live/C-SPAN/hd
 
