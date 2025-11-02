@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="WRCDT.us" tvg-name="4 WRC NBC" tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wrc.png" group-title="Local",4 WRC NBC
-http://fl30.moveonjoy.com/NBC_EAST/index.m3u8
+https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
 #EXTINF:-1 tvg-id="WABC.us" tvg-name="7 WABC ABC" tvg-chno="7" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wabc.png" group-title="Local",7 WABC ABC
 https://fl30.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="WGNDT.us" tvg-name="9 WGN Chicago CW" tvg-chno="9" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wgn.png" group-title="Local",9 WGN Chicago CW
 https://fl30.moveonjoy.com/WGN/index.m3u8
 #EXTINF:-1 tvg-id="WNYW.us" tvg-name="27 WNYW Fox" tvg-chno="27" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wnyw.png" group-title="Local",27 WNYW Fox NY
-https://fl30.moveonjoy.com/FOX_EAST/index.m3u8
+https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
 
 #EXTINF:-1 tvg-id="NHK World.us" tvg-name="31.4 NHK World" tvg-chno="31.4" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nhk.png" group-title="Culture",31.4 NHK World
 https://media-tyo.hls.nhkworld.jp/hls/w/live/o-master.m3u8
