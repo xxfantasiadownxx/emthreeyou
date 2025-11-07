@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="WFLADT.us" tvg-name="WFLA NBC" tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wfla.png" group-title="Local",WFLA NBC Florida
-https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
 #EXTINF:-1 tvg-id="WABC.us" tvg-name="WABC ABC" tvg-chno="7" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wabc.png" group-title="Local",WABC ABC New York
 https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="WFLADT.us" tvg-name="WFLA NBC" tvg-chno="8" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wfla.png" group-title="Local",WFLA NBC Florida
+https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
 #EXTINF:-1 tvg-id="WGNDT.us" tvg-name="WGN Chicago CW" tvg-chno="9" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wgn.png" group-title="Local",WGN Chicago CW
 https://fl1.moveonjoy.com/WGN/index.m3u8
-#EXTINF:-1 tvg-id="WFLX.us" tvg-name="WFLX Fox" tvg-chno="27" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wflx.png" group-title="Local",WFLX Fox Florida
+#EXTINF:-1 tvg-id="WFLX.us" tvg-name="WFLX Fox" tvg-chno="29" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wflx.png" group-title="Local",WFLX Fox Florida
 https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
 
 #EXTINF:-1 tvg-id="NHK World.us" tvg-name="31.4 NHK World" tvg-chno="31.4" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nhk.png" group-title="Culture",31.4 NHK World
