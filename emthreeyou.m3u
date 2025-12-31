@@ -6,6 +6,8 @@ https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
 #EXTINF:-1 tvg-id="WGNDT.us" tvg-name="WGN Chicago CW" tvg-chno="9" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wgn.png" group-title="Local",WGN Chicago CW
 https://fl1.moveonjoy.com/WGN/index.m3u8
+#EXTINF:-1 tvg-id="WFOR.us" tvg-name="WFOR CBS" tvg-chno="22" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wfor.png" group-title="Local",WFOR CBS Miami
+https://fl1.moveonjoy.com/FL_Miami_CBS/index.m3u8
 #EXTINF:-1 tvg-id="WFLX.us" tvg-name="WFLX Fox" tvg-chno="29" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wflx.png" group-title="Local",WFLX Fox Florida
 https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
 
