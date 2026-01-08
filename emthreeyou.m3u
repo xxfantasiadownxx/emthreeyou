@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="WABC.us" tvg-name="WABC ABC" tvg-chno="7" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wabc.png" group-title="Local",WABC ABC New York
-https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="WFLADT.us" tvg-name="WFLA NBC" tvg-chno="8" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wfla.png" group-title="Local",WFLA NBC Florida
 https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
 #EXTINF:-1 tvg-id="WGNDT.us" tvg-name="WGN Chicago CW" tvg-chno="9" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wgn.png" group-title="Local",WGN Chicago CW
 https://fl1.moveonjoy.com/WGN/index.m3u8
 #EXTINF:-1 tvg-id="WFOR.us" tvg-name="WFOR CBS" tvg-chno="22" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wfor.png" group-title="Local",WFOR CBS Miami
 https://fl1.moveonjoy.com/FL_Miami_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WFTS.us" tvg-name="WFTS ABC" tvg-chno="28" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wfts.png" group-title="Local",WFTS ABC Tampa Bay
+https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
 #EXTINF:-1 tvg-id="WFLX.us" tvg-name="WFLX Fox" tvg-chno="29" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wflx.png" group-title="Local",WFLX Fox Florida
 https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
 
@@ -23,8 +23,6 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 #EXTINF:-1 tvg-id="Smithsonian Channel.us" tvg-name="Smithsonian Channel" tvg-chno="915" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/smithsonian.png" group-title="Entertainment",Smithsonian Channel
 https://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="Fox News.us" tvg-name="Fox News" tvg-chno="1110" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fnc.png" group-title="News",Fox News
-https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="C-SPAN.us" tvg-name="C-SPAN" tvg-chno="1128" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cspan.png" group-title="News",C-SPAN
 https://fl1.moveonjoy.com/C-SPAN/index.m3u8
 
