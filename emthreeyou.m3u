@@ -23,6 +23,8 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 #EXTINF:-1 tvg-id="Smithsonian Channel.us" tvg-name="Smithsonian Channel" tvg-chno="915" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/smithsonian.png" group-title="Entertainment",Smithsonian Channel
 https://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 
+#EXTINF:-1 tvg-id="Fox-News.us" tvg-name="Fox News" tvg-chno="1110" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fnc.png" group-title="News",Fox News
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:-1 tvg-id="C-SPAN.us" tvg-name="C-SPAN" tvg-chno="1128" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cspan.png" group-title="News",C-SPAN
 https://fl1.moveonjoy.com/C-SPAN/index.m3u8
 
