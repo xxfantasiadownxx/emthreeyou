@@ -17,7 +17,7 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/o-master.m3u8
 #EXTINF:-1 tvg-id="Buzzr.us" tvg-name="BUZZR" tvg-chno="199" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/buzzr.png" group-title="Entertainment",BUZZR
 https://fl1.moveonjoy.com/Buzzr/index.m3u8
 #EXTINF:-1 tvg-id="USA Network.us" tvg-name="USA Network" tvg-chno="823" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/usa.png" group-title="Entertainment",USA Network
-http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
+http://fl34.moveonjoy.com/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-chno="825" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/tnt.png" group-title="Entertainment",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="Smithsonian Channel.us" tvg-name="Smithsonian Channel" tvg-chno="915" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/smithsonian.png" group-title="Entertainment",Smithsonian Channel
