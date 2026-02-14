@@ -1,0 +1,32 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="WRCDT.us" tvg-name="WNBC" tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wrc.png" group-title="Local",WNBC
+https://tvpass.org/live/WNBCDT1/sd
+#EXTINF:-1 tvg-id="WABC.us" tvg-name="WABC" tvg-chno="7" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wabc.png" group-title="Local",WABC
+https://tvpass.org/live/WABCDT1/sd
+#EXTINF:-1 tvg-id="WDCW.us" tvg-name="WDCW" tvg-chno="9" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wgn.png" group-title="Local",WDCW
+https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
+#EXTINF:-1 tvg-id="WNYW.us" tvg-name="WNYW" tvg-chno="27" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wnyw.png" group-title="Local",WNYW
+https://tvpass.org/live/WNYWDT1/sd
+
+#EXTINF:-1 tvg-id="NHK World.us" tvg-name="NHK World" tvg-chno="31.4" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nhk.png" group-title="Culture",NHK World
+https://media-tyo.hls.nhkworld.jp/hls/w/live/o-master.m3u8
+
+#EXTINF:-1 tvg-id="Buzzr.us" tvg-name="BUZZR" tvg-chno="199" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/buzzr.png" group-title="Entertainment",BUZZR
+https://buzzrota-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="USA Network.us" tvg-name="USA Network" tvg-chno="823" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/usa.png" group-title="Entertainment",USA Network
+https://tvpass.org/live/USANetworkEast/sd
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-chno="825" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/tnt.png" group-title="Entertainment",TNT
+https://tvpass.org/live/TNTEast/sd
+
+#EXTINF:-1 tvg-id="Fox News.us" tvg-name="Fox News" tvg-chno="1110" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fnc.png" group-title="News",Fox News
+https://tvpass.org/live/FoxNewsChannel/sd
+#EXTINF:-1 tvg-id="C-SPAN.us" tvg-name="C-SPAN" tvg-chno="1128" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cspan.png" group-title="News",C-SPAN
+https://tvpass.org/live/C-SPAN/sd
+
+#EXTINF:-1 tvg-id="Fox Sports 1.us" tvg-name="Fox Sports 1" tvg-chno="1208" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs1.png" group-title="Sports",Fox Sports 1
+https://tvpass.org/live/FoxSports1/sd
+#EXTINF:-1 tvg-id="Motor Trend HDTV.us" tvg-name="Motor Trend" tvg-chno="1243" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/mt.png" group-title="Sports",Motor Trend
+http://104.255.88.155/motortrend/index.m3u8
+#EXTINF:-1 tvg-id="CBS Sports Network.us" tvg-name="CBS Sports Network" tvg-chno="1303" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cbssn.png" group-title="Sports",CBS Sports Network
+https://tvpass.org/live/CBSSportsNetworkUSA/sd
