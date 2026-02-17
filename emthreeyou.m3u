@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="WFLADT.us" tvg-name="NBC" tvg-chno="3" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wfla.png" group-title="Local",NBC
 https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
-#EXTINF:-1 tvg-id="WBMM.us" tvg-name="CW" tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cw.png" group-title="Local",WGN Chicago CW
+#EXTINF:-1 tvg-id="WBMM.us" tvg-name="CW" tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cw.png" group-title="Local",CW
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/75352.ts
 #EXTINF:-1 tvg-id="WCBS.us" tvg-name="CBS" tvg-chno="5" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cbs.png" group-title="Local",CBS
 http://fl41.moveonjoy.com/NY_NEW_YORK_CBS/index.m3u8
