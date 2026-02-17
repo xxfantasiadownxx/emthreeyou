@@ -1,38 +1,37 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="WFLADT.us" tvg-name="WFLA NBC" tvg-chno="8" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wfla.png" group-title="Local",WFLA NBC Florida
+#EXTINF:-1 tvg-id="WFLADT.us" tvg-name="NBC" tvg-chno="3" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wfla.png" group-title="Local",NBC
 https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
-#EXTINF:-1 tvg-id="WGNDT.us" tvg-name="WGN Chicago CW" tvg-chno="9" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wgn.png" group-title="Local",WGN Chicago CW
-https://fl1.moveonjoy.com/WGN/index.m3u8
-#EXTINF:-1 tvg-id="WFOR.us" tvg-name="WFOR CBS" tvg-chno="22" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wfor.png" group-title="Local",WFOR CBS Miami
-https://fl1.moveonjoy.com/FL_Miami_CBS/index.m3u8
-#EXTINF:-1 tvg-id="WFTS.us" tvg-name="WFTS ABC" tvg-chno="28" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wfts.png" group-title="Local",WFTS ABC Tampa Bay
-https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WFLX.us" tvg-name="WFLX Fox" tvg-chno="29" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wflx.png" group-title="Local",WFLX Fox Florida
-https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
+#EXTINF:-1 tvg-id="WBMM.us" tvg-name="CW" tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cw.png" group-title="Local",WGN Chicago CW
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/75352.ts
+#EXTINF:-1 tvg-id="WCBS.us" tvg-name="CBS" tvg-chno="5" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cbs.png" group-title="Local",CBS
+http://fl41.moveonjoy.com/NY_NEW_YORK_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC" tvg-chno="6" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/abc.png" group-title="Local",ABC
+http://fl41.moveonjoy.com/NY_NEW_YORK_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WFOX.us" tvg-name="Fox" tvg-chno="7" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fox.png" group-title="Local",FOX
+http://fl41.moveonjoy.com/FL_Jacksonville_FOX/index.m3u8
 
-#EXTINF:-1 tvg-id="NHK World.us" tvg-name="NHK World" tvg-chno="31.4" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nhk.png" group-title="Culture",NHK World
+#EXTINF:-1 tvg-id="Buzzr.us" tvg-name="BUZZR" tvg-chno="100" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/buzzr.png" group-title="Entertainment",BUZZR
+https://apollo.production-public.tubi.io/live/buzzr-KU8lhO.m3u8
+#EXTINF:-1 tvg-id="NHK World.us" tvg-name="NHK World" tvg-chno="101" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nhk.png" group-title="Culture",NHK World
 https://media-tyo.hls.nhkworld.jp/hls/w/live/o-master.m3u8
-
-#EXTINF:-1 tvg-id="Buzzr.us" tvg-name="BUZZR" tvg-chno="199" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/buzzr.png" group-title="Entertainment",BUZZR
-https://fl1.moveonjoy.com/Buzzr/index.m3u8
-#EXTINF:-1 tvg-id="USA Network.us" tvg-name="USA Network" tvg-chno="823" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/usa.png" group-title="Entertainment",USA Network
-http://fl34.moveonjoy.com/USA_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-chno="825" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/tnt.png" group-title="Entertainment",TNT
+#EXTINF:-1 tvg-id="USA Network.us" tvg-name="USA Network" tvg-chno="102" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/usa.png" group-title="Entertainment",USA
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3767.ts
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-chno="103" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/tnt.png" group-title="Entertainment",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="Smithsonian Channel.us" tvg-name="Smithsonian Channel" tvg-chno="915" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/smithsonian.png" group-title="Entertainment",Smithsonian Channel
-https://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Smithsonian Channel.us" tvg-name="Smithsonian Channel" tvg-chno="104" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/smithsonian.png" group-title="Entertainment",Smithsonian Channel
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2414.ts
 
-#EXTINF:-1 tvg-id="Fox-News.us" tvg-name="Fox News" tvg-chno="1110" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fnc.png" group-title="News",Fox News
+#EXTINF:-1 tvg-id="Fox-News.us" tvg-name="Fox News" tvg-chno="200" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fnc.png" group-title="News",Fox News
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
-#EXTINF:-1 tvg-id="C-SPAN.us" tvg-name="C-SPAN" tvg-chno="1128" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cspan.png" group-title="News",C-SPAN
-https://fl1.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 tvg-id="C-SPAN.us" tvg-name="C-SPAN" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cspan.png" group-title="News",C-SPAN
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/92792.ts
 
-#EXTINF:-1 tvg-id="Fox Sports 1.us" tvg-name="Fox Sports 1" tvg-chno="1208" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs1.png" group-title="Sports",Fox Sports 1
-https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="MotorTrend.us" tvg-name="Motor Trend" tvg-chno="1243" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/mt.png" group-title="Sports",Motor Trend
+#EXTINF:-1 tvg-id="Fox Sports 1.us" tvg-name="Fox Sports 1" tvg-chno="300" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs1.png" group-title="Sports",Fox Sports 1
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3732.ts
+#EXTINF:-1 tvg-id="MotorTrend.us" tvg-name="Motor Trend" tvg-chno="301" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/mt.png" group-title="Sports",Motor Trend
 http://104.255.88.155/motortrend/index.m3u8
-#EXTINF:-1 tvg-id="RACER.Network.us" tvg-name="RACER Network" tvg-chno="1244" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/racer.png" group-title="Sports",RACER Network
+#EXTINF:-1 tvg-id="RACER.Network.us" tvg-name="RACER Network" tvg-chno="302" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/racer.png" group-title="Sports",RACER Network
 https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/cb573f1965736c909bc33878d1f54982bf7b3dcb0e6c886470af4a9765d96208d6e5af87b208b7634ce6419a34567d2c0c34db66bd6c69d7df7ab65031770736dc92b37fdf871210a2af5a7971ec651c51ff0e15d1255232ffe0080d8332ad365447be473e1476d8b80aad2203c2d217de2d2c82b0dc606f7d4756970e5df8f25ca3f9e50f14dc6ea1b8482a371e7fcfba9332192e91b2b1388c7ee328a850c8c6e0e89741c6d3d241816d801a2828eff904e203fee752a4ce92291891743a4f1d549cd3fb16faebe4352a6bfdfac3be72f416c0cb50e9c0e66c62ea2daa1af001840cb0a164a5bfa8da5b0b5ecea10b3677f8b3f2c093bd54ccfa83b15eaf7158b98fee6fbb0b2e39108b78059e8164a5ce1084bf2084fb47182fffa84a8996886a8edab967933fc3cbf89972170033444aab5ca19363cf26ce70f38e3a2f484848edb754c7c6f66d705a0fd7d010854640f9c99dd98e5a6d8430521acf65da500a239e643d2cb57ca9cb7c4a80340f833a25b40961d60cacca419fc3f4d64603c7bb9612b13ebacf48b8912fa67735550eb28842794c5e78d6e17e4d7d39ec76a4eb8886530c13e7e3c2eeca316d51d976dad71d4881c5c31d6b792847d319a57f34fe9e0d34/56/1920x1080_4715744/index.m3u8
-#EXTINF:-1 tvg-id="CBS Sports Network.us" tvg-name="CBS Sports Network" tvg-chno="1303" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cbssn.png" group-title="Sports",CBS Sports Network
-https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="CBS Sports Network.us" tvg-name="CBS Sports Network" tvg-chno="303" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cbssn.png" group-title="Sports",CBS Sports Network
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3712.ts
