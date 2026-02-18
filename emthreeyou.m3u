@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="WMAQ.us" tvg-name="NBC" tvg-chno="3" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wfla.png" group-title="Local",NBC
+#EXTINF:-1 tvg-id="WMAQ.us" tvg-name="NBC" tvg-chno="3" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nbc.png" group-title="Local",NBC
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/660935.ts
 #EXTINF:-1 tvg-id="WBMM.us" tvg-name="CW" tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cw.png" group-title="Local",CW
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/75352.ts
