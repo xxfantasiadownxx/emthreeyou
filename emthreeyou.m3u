@@ -4,15 +4,13 @@
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/660935.ts
 #EXTINF:-1 tvg-id="WBMM.us" tvg-name="CW" tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cw.png" group-title="Local",CW
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/75352.ts
-#EXTINF:-1 tvg-id="WCTV.us" tvg-name="CBS" tvg-chno="5" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cbs.png" group-title="Local",CBS
-https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC" tvg-chno="6" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/abc.png" group-title="Local",ABC
+#EXTINF:-1 tvg-id="KMPH.us" tvg-name="Fox" tvg-chno="5" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fox.png" group-title="Local",FOX
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/434317.ts
+#EXTINF:-1 tvg-id="WTVD.us" tvg-name="ABC" tvg-chno="6" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/abc.png" group-title="Local",ABC
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2689.ts
-#EXTINF:-1 tvg-id="WFOX.us" tvg-name="Fox" tvg-chno="7" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fox.png" group-title="Local",FOX
-http://fl41.moveonjoy.com/FL_Jacksonville_FOX/index.m3u8
 
 #EXTINF:-1 tvg-id="Buzzr.us" tvg-name="BUZZR" tvg-chno="100" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/buzzr.png" group-title="Entertainment",BUZZR
-https://apollo.production-public.tubi.io/live/buzzr-KU8lhO.m3u8
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/75342.ts
 #EXTINF:-1 tvg-id="NHK World.us" tvg-name="NHK World" tvg-chno="101" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nhk.png" group-title="Culture",NHK World
 https://media-tyo.hls.nhkworld.jp/hls/w/live/o-master.m3u8
 #EXTINF:-1 tvg-id="USA Network.us" tvg-name="USA Network" tvg-chno="102" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/usa.png" group-title="Entertainment",USA
@@ -29,9 +27,11 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/92792.ts
 
 #EXTINF:-1 tvg-id="Fox Sports 1.us" tvg-name="Fox Sports 1" tvg-chno="300" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs1.png" group-title="Sports",Fox Sports 1
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3732.ts
-#EXTINF:-1 tvg-id="MotorTrend.us" tvg-name="Motor Trend" tvg-chno="301" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/mt.png" group-title="Sports",Motor Trend
-http://104.255.88.155/motortrend/index.m3u8
-#EXTINF:-1 tvg-id="RACER.Network.us" tvg-name="RACER Network" tvg-chno="302" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/racer.png" group-title="Sports",RACER Network
+#EXTINF:-1 tvg-id="Fox Sports 2.us" tvg-name="Fox Sports 2" tvg-chno="301" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs2.png" group-title="Sports",Fox Sports 2
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3646.ts
+#EXTINF:-1 tvg-id="MotorTrend.us" tvg-name="MotorTrend" tvg-chno="302" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/mt.png" group-title="Sports",MotorTrend
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3662.ts
+#EXTINF:-1 tvg-id="RACER.Network.us" tvg-name="RACER Network" tvg-chno="303" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/racer.png" group-title="Sports",RACER Network
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/5290.ts
-#EXTINF:-1 tvg-id="CBS Sports Network.us" tvg-name="CBS Sports Network" tvg-chno="303" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cbssn.png" group-title="Sports",CBS Sports Network
+#EXTINF:-1 tvg-id="CBS Sports Network.us" tvg-name="CBS Sports Network" tvg-chno="304" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cbssn.png" group-title="Sports",CBS Sports Network
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3712.ts
