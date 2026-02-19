@@ -2,12 +2,10 @@
 
 #EXTINF:-1 tvg-id="WMAQ.us" tvg-name="NBC" tvg-chno="3" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nbc.png" group-title="Local",NBC
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/660935.ts
-#EXTINF:-1 tvg-id="WBMM.us" tvg-name="CW" tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cw.png" group-title="Local",CW
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/75352.ts
-#EXTINF:-1 tvg-id="KMPH.us" tvg-name="Fox" tvg-chno="5" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fox.png" group-title="Local",FOX
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/434317.ts
-#EXTINF:-1 tvg-id="WTVD.us" tvg-name="ABC" tvg-chno="6" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/abc.png" group-title="Local",ABC
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2689.ts
+#EXTINF:-1 tvg-id="WKCF.us" tvg-name="CW" tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cw.png" group-title="Local",CW
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/333488.ts
+#EXTINF:-1 tvg-id="KKFX.us" tvg-name="Fox" tvg-chno="5" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fox.png" group-title="Local",FOX
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/89462.ts
 
 #EXTINF:-1 tvg-id="Buzzr.us" tvg-name="BUZZR" tvg-chno="100" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/buzzr.png" group-title="Entertainment",BUZZR
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/75342.ts
