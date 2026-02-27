@@ -1,1 +1,16 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-id="SNP.us" tvg-name="SportsNet Pittsburgh" tvg-chno="800" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/snp.png" group-title="Sports",SportsNet Pittsburgh
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/149311.ts
+
+#EXTINF:-1 tvg-id="KDKA.us" tvg-name="KDKA CBS Pittsburgh" tvg-chno="801" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/kdka.png" group-title="Local",KDKA CBS Pittsburgh
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/149311.ts
+
+#EXTINF:-1 tvg-id="WJAC.us" tvg-name="KDKA+ CW Pittsburgh" tvg-chno="802" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cw+.png" group-title="Local",KDKA+ CW Pittsburgh
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/34432.ts
+
+#EXTINF:-1 tvg-id="WTAE.us" tvg-name="WTAE ABC Pittsburgh" tvg-chno="803" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wtae.png" group-title="Local",WTAE ABC Pittsburgh
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2676.ts
+
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL Network" tvg-chno="820" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nfl.png" group-title="Sports",NFL Network
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2424.ts
