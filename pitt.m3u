@@ -12,5 +12,8 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/34432.ts
 #EXTINF:-1 tvg-id="WTAE.us" tvg-name="WTAE ABC Pittsburgh" tvg-chno="803" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wtae.png" group-title="Local",WTAE ABC Pittsburgh
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2676.ts
 
+#EXTINF:-1 tvg-id="WPGH.us" tvg-name="WPGH Fox Pittsburgh" tvg-chno="804" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wpgh.png" group-title="Local",WPGH Fox Pittsburgh
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2538.ts
+
 #EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL Network" tvg-chno="820" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nfl.png" group-title="Sports",NFL Network
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2424.ts
