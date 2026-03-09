@@ -12,7 +12,7 @@ https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="NHK World.us" tvg-name="NHK World" tvg-chno="102" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nhk.png" group-title="Culture",NHK World
 https://nhk.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="USA Network.us" tvg-name="USA Network" tvg-chno="103" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/usa.png" group-title="Entertainment",USA
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3767.ts
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/34316.ts
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-chno="104" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/tnt.png" group-title="Entertainment",TNT
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3844.ts
 #EXTINF:-1 tvg-id="Smithsonian Channel.us" tvg-name="Smithsonian Channel" tvg-chno="105" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/smithsonian.png" group-title="Entertainment",Smithsonian Channel
