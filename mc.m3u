@@ -1,0 +1,14 @@
+#EXTINF:-1 tvg-id="mc80.us" tvg-name="Music Choice 80s" tvg-chno="1000" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/mc80.png" group-title="Local",Music Choice 80s
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/42078.ts
+
+#EXTINF:-1 tvg-id="mcrock.us" tvg-name="Music Choice Rock" tvg-chno="1001" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/mcrock.png" group-title="Local",Music Choice Rock
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/42080.ts
+
+#EXTINF:-1 tvg-id="mcfeelgood.us" tvg-name="Music Choice Feel Good" tvg-chno="1002" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/mcfeelgood.png" group-title="Local",Music Choice Feel Good
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/42082.ts
+
+#EXTINF:-1 tvg-id="mcclassical.us" tvg-name="Music Choice Calming Classical" tvg-chno="1003" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/mcclassical.png" group-title="Local",Music Choice Calming Classical
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/42090.ts
+
+#EXTINF:-1 tvg-id="mc6070.us" tvg-name="Music Choice 60s and 70s Mellow Hits" tvg-chno="1004" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/mc6070.png" group-title="Local",Music Choice 60s and 70s Mellow Hits
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/42092.ts
