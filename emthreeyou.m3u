@@ -4,8 +4,12 @@
 https://s.rocketdns.info/live/superreal1/superreal1/333488.ts
 #EXTINF:-1 tvg-id="WPGH.us" tvg-name="Fox" tvg-chno="5" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fox.png" group-title="Local",FOX
 https://s.rocketdns.info/live/superreal1/superreal1/2538.ts
-#EXTINF:-1 tvg-id="WBAL.us" tvg-name="NBC" tvg-chno="6" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nbc.png" group-title="Local",NBC
+#EXTINF:-1 tvg-id="WGAL.us" tvg-name="NBC" tvg-chno="8" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wgal.png" group-title="Local",WGAL
+https://s.rocketdns.info/live/superreal1/superreal1/89768.ts
+#EXTINF:-1 tvg-id="WBAL.us" tvg-name="NBC" tvg-chno="11" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wbal.png" group-title="Local",WBAL
 https://s.rocketdns.info/live/superreal1/superreal1/2468.ts
+#EXTINF:-1 tvg-id="WDVM.us" tvg-name="CW" tvg-chno="25" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wdvm.png" group-title="Local",WDVM
+https://s.rocketdns.info/live/superreal1/superreal1/723847.ts
 
 #EXTINF:-1 tvg-id="Buzzr.us" tvg-name="BUZZR" tvg-chno="100" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/buzzr.png" group-title="Entertainment",BUZZR
 https://s.rocketdns.info/live/superreal1/superreal1/75342.ts
