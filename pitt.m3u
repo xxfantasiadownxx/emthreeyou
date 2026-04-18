@@ -4,13 +4,13 @@
 http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/59945.ts
 
 #EXTINF:-1 tvg-id="KDKA.us" tvg-name="KDKA CBS Pittsburgh" tvg-chno="801" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/kdka.png" group-title="Local",KDKA CBS Pittsburgh
-https://s.rocketdns.info/live/superreal1/superreal1/112189.ts
+https://s.rocketdns.info/live/superreal2/superreal2/112189.ts
 
 #EXTINF:-1 tvg-id="WPCW.us" tvg-name="KDKA+ CW Pittsburgh" tvg-chno="802" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/kdka+.png" group-title="Local",KDKA+ CW Pittsburgh
-https://s.rocketdns.info/live/superreal1/superreal1/34432.ts
+https://s.rocketdns.info/live/superreal2/superreal2/34432.ts
 
 #EXTINF:-1 tvg-id="WTAE.us" tvg-name="WTAE ABC Pittsburgh" tvg-chno="803" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wtae.png" group-title="Local",WTAE ABC Pittsburgh
-https://s.rocketdns.info/live/superreal1/superreal1/2676.ts
+https://s.rocketdns.info/live/superreal2/superreal2/2676.ts
 
 #EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL Network" tvg-chno="820" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nfl.png" group-title="Sports",NFL Network
-https://s.rocketdns.info/live/superreal1/superreal1/3754.ts
+https://s.rocketdns.info/live/superreal2/superreal2/3754.ts
