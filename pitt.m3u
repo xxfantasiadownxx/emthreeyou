@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="SNP.us" tvg-name="SportsNet Pittsburgh" tvg-chno="800" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/snp.png" group-title="Sports",SportsNet Pittsburgh
-http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/59945.ts
+https://s.rocketdns.info/live/superreal2/superreal2/149311.ts
 
 #EXTINF:-1 tvg-id="KDKA.us" tvg-name="KDKA CBS Pittsburgh" tvg-chno="801" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/kdka.png" group-title="Local",KDKA CBS Pittsburgh
 https://s.rocketdns.info/live/superreal2/superreal2/112189.ts
