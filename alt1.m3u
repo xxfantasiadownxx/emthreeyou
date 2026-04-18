@@ -48,13 +48,13 @@ http://mains.services/live/5983136704/4790618/d9bc0b33-1e95-4950-82db-25fd2ce12d
 http://mains.services/live/5983136704/4790618/bfeee941-9778-4011-80f3-91d584da194d.m3u8
 
 #EXTINF:-1 tvg-id="CBS Sports Network.us" tvg-name="CBS Sports Network" tvg-chno="304" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cbssn.png" group-title="Sports",CBS Sports Network
-http://mains.services/live/5983136704/4790618/07a4956f-1097-4457-9db9-03ef67b363fc.m3u8
+http://kstv.us:8080/4VUyfZBQzk/95104974615/15944
 
 #EXTINF:-1 tvg-id="SkySportsF1.us" tvg-name="Sky Sports F1" tvg-chno="305" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/f1.png" group-title="Sports",Sky Sports F1
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7342/index.m3u8
+http://kstv.us:8080/4VUyfZBQzk/95104974615/47865
 
-#EXTINF:-1 tvg-id="slingpirates.us" tvg-name="Sling TV Pirates" tvg-chno="305" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/pirates.png" group-title="Sports",Sling TV Pirates
-http://mains.services/live/5983136704/4790618/36fe607f-c6ba-4c2d-9854-3e7d9373a88d.m3u8
+#EXTINF:-1 tvg-id="SNP.us" tvg-name="SportsNet Pittsburgh" tvg-chno="800" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/snp.png" group-title="Sports",SportsNet Pittsburgh
+http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/59945.ts
 
-#EXTINF:-1 tvg-id="slingsteelers.us" tvg-name="Sling TV Steelers" tvg-chno="305" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/pirates.png" group-title="Sports",Sling TV Steelers
-http://mains.services/live/5983136704/4790618/13ebb15a-de7f-4950-af8a-ed627f104956.m3u8
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL Network" tvg-chno="820" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nfl.png" group-title="Sports",NFL Network
+https://nhl-firetv.amagi.tv/playlist1080p.m3u8
