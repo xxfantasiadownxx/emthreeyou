@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="WKCF.us" tvg-name="CW" tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cw.png" group-title="Local",CW
-https://s.rocketdns.info/live/superreal2/superreal2/333488.ts
+#EXTINF:-1 tvg-id="WDCW.us" tvg-name="CW" tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cw.png" group-title="Local",CW
+https://s.rocketdns.info/live/superreal2/superreal2/630645.ts
 #EXTINF:-1 tvg-id="WPGH.us" tvg-name="Fox" tvg-chno="5" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fox.png" group-title="Local",FOX
 https://s.rocketdns.info/live/superreal2/superreal2/2538.ts
 #EXTINF:-1 tvg-id="WGAL.us" tvg-name="NBC" tvg-chno="8" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wgal.png" group-title="Local",WGAL
