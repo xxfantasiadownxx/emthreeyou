@@ -20,3 +20,6 @@ https://s.rocketdns.info/live/superreal2/superreal2/3642.ts
 
 #EXTINF:-1 tvg-id="FXM.us" tvg-name="FXM" tvg-chno="506" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fxm.png" group-title="Local",FXM
 https://s.rocketdns.info/live/superreal2/superreal2/2497.ts
+
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-chno="507" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/amc.png" group-title="Local",AMC
+https://s.rocketdns.info/live/superreal2/superreal2/3608.ts
