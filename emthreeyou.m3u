@@ -10,6 +10,8 @@ https://s.rocketdns.info/live/superreal/superreal/89768.ts
 https://s.rocketdns.info/live/superreal/superreal/2468.ts
 #EXTINF:-1 tvg-id="WDVM.us" tvg-name="CW" tvg-chno="25" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wdvm.png" group-title="Local",WDVM
 https://s.rocketdns.info/live/superreal/superreal/723847.ts
+#EXTINF:-1 tvg-id="WETA.us" tvg-name="PBS" tvg-chno="26" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/weta.png" group-title="Local",WETA
+https://s.rocketdns.info/live/superreal/superreal/446777.ts
 
 #EXTINF:-1 tvg-id="Buzzr.us" tvg-name="BUZZR" tvg-chno="100" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/buzzr.png" group-title="Entertainment",BUZZR
 https://s.rocketdns.info/live/superreal/superreal/75342.ts
