@@ -1,25 +1,25 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="History.us" tvg-name="History" tvg-chno="500" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/history.png" group-title="Local",History
-http://s.rocketdns.info:8080/superreal/superreal/3657
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3657
 
 #EXTINF:-1 tvg-id="SyFy.us" tvg-name="SyFy" tvg-chno="501" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/syfy.png" group-title="Local",Syfy
-http://s.rocketdns.info:8080/superreal/superreal/3681
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3681
 
 #EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-chno="502" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/tbs.png" group-title="Local",TBS
-http://s.rocketdns.info:8080/superreal/superreal/3684
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3684
 
 #EXTINF:-1 tvg-id="TCM.us" tvg-name="TCM" tvg-chno="503" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/tcm.png" group-title="Local",TCM
-http://s.rocketdns.info:8080/superreal/superreal/3852
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3852
 
 #EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E" tvg-chno="504" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/ae.png" group-title="Local",A&E
-http://s.rocketdns.info:8080/superreal/superreal/3607
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3607
 
 #EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-chno="505" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fx.png" group-title="Local",FX
-http://s.rocketdns.info:8080/superreal/superreal/3642
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3642
 
 #EXTINF:-1 tvg-id="FXM.us" tvg-name="FXM" tvg-chno="506" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fxm.png" group-title="Local",FXM
-http://s.rocketdns.info:8080/superreal/superreal/2497
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2497
 
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-chno="507" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/amc.png" group-title="Local",AMC
-http://s.rocketdns.info:8080/superreal/superreal/3608
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3608
