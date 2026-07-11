@@ -12,5 +12,8 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2676
 #EXTINF:-1 tvg-id="WPGH.us" tvg-name="WPGH Fox Pittsburgh" tvg-chno="804" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wpgh.png" group-title="Local",WPGH Fox Pittsburgh
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2538
 
+#EXTINF:-1 tvg-id="MLBPittsburgh.us" tvg-name="MLB Pittsburgh" tvg-chno="805" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/mlbp.png" group-title="Sports",MLB Pittsburgh
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/390419
+
 #EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL Network" tvg-chno="820" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nfl.png" group-title="Sports",NFL Network
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3754
