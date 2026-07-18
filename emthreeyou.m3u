@@ -3,9 +3,9 @@
 #EXTINF:-1 tvg-id="WNBC.us" tvg-name="WNBC NBC 4" tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wbal.png" group-title="Local",WNBC NBC 4
 http://206.212.244.63/125/index.m3u8
 #EXTINF:-1 tvg-id="WTTG.us" tvg-name="WTTG FOX 5" tvg-chno="5" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wttg.png" group-title="Local",WTTG FOX 5
-http://restream-live.realiptv.to:8080/live/Marky0416/2c1744538b/2503.ts
+https://s.rocketdns.info/live/Marky0416/2c1744538b/2503.ts
 #EXTINF:-1 tvg-id="KSTW.us" tvg-name="KSTW CW 11" tvg-chno="11" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/wdcw.png" group-title="Local",KSTW CW 11
-http://40.160.24.52/CW/index.m3u8
+https://s.rocketdns.info/live/Marky0416/2c1744538b/630645.ts
 
 #EXTINF:-1 tvg-id="Buzzr.us" tvg-name="BUZZR" tvg-chno="100" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/buzzr.png" group-title="Entertainment",BUZZR
 http://206.212.244.63/27/index.m3u8
