@@ -12,7 +12,7 @@ https://restream-live.realiptv.to/live/Marky0416/2c1744538b/75342.ts
 #EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-name="Game Show Network" tvg-chno="101" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/gsn.png" group-title="Entertainment",Game Show Network
 https://restream-live.realiptv.to/live/Marky0416/2c1744538b/88793.ts
 #EXTINF:-1 tvg-id="NHK World.us" tvg-name="NHK World" tvg-chno="102" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nhk.png" group-title="Culture",NHK World
-https://nhk.lls.pbs.org/index.m3u8
+https://restream-live.realiptv.to/live/Marky0416/2c1744538b/597118.ts
 #EXTINF:-1 tvg-id="USA Network.us" tvg-name="USA Network" tvg-chno="103" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/usa.png" group-title="Entertainment",USA
 https://restream-live.realiptv.to/live/Marky0416/2c1744538b/3694.ts
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-chno="104" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/tnt.png" group-title="Entertainment",TNT
