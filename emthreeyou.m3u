@@ -1,9 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="WJBK.us" tvg-name="WJBK FOX 2" tvg-chno="2" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fox.png" group-title="Local",WJBK Fox 2
-http://stream.cammonitorplus.net/1772/index.m3u8
-#EXTINF:-1 tvg-id="WBAL.us" tvg-name="WBAL NBC 11" tvg-chno="11" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nbc.png" group-title="Local",WBAL NBC 11
-http://stream.cammonitorplus.net/1745/index.m3u8
+#EXTINF:-1 tvg-id="KDKA.us" tvg-name="KDKA CBS 2" tvg-chno="2" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cbs.png" group-title="Local",KDKA CBS 2
+http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/218115
+#EXTINF:-1 tvg-id="WNBC.us" tvg-name="WNBC NBC 4" tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nbc.png" group-title="Local",WNBC NBC 4
+http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/218527
+#EXTINF:-1 tvg-id="WPGH.us" tvg-name="WPGH FOX 7" tvg-chno="7" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fox.png" group-title="Local",WPGH FOX 7
+http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/218802
+#EXTINF:-1 tvg-id="WDCW.us" tvg-name="WDCW CW 50" tvg-chno="50" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cw.png" group-title="Local",WDCW CW 50
+http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/218823
 
 #EXTINF:-1 tvg-id="Buzzr.us" tvg-name="BUZZR" tvg-chno="100" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/buzzr.png" group-title="Entertainment",BUZZR
 https://aegis-cloudfront-1.tubi.video/d4038326-a3e3-4aba-b1f1-f0526c912c74/playlist.m3u8
@@ -12,15 +16,22 @@ https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="NHK World.us" tvg-name="NHK World" tvg-chno="102" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nhk.png" group-title="Culture",NHK World
 https://nhk.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="USA Network.us" tvg-name="USA Network" tvg-chno="103" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/usa.png" group-title="Entertainment",USA
-http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/1101/index.m3u8
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-chno="104" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/tnt.png" group-title="Entertainment",TNT
-https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221355
+
 
 #EXTINF:-1 tvg-id="Fox Sports 1.us" tvg-name="Fox Sports 1" tvg-chno="300" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs1.png" group-title="Sports",Fox Sports 1
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7322/index.m3u8
+http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221239
 #EXTINF:-1 tvg-id="Fox Sports 2.us" tvg-name="Fox Sports 2" tvg-chno="301" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs2.png" group-title="Sports",Fox Sports 2
-http://d029dcec.kazmazpaz.ru/iptv/FHKC2D3GGKYK3Q/7323/index.m3u8
+http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221240
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-chno="303" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/espn.png" group-title="Sports",ESPN
+http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221228
 #EXTINF:-1 tvg-id="RACER.Network.us" tvg-name="RACER Network" tvg-chno="303" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/racer.png" group-title="Sports",RACER Network
-http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/1074/index.m3u8
+#EXTINF:-1 tvg-id="CBS Sports.us" tvg-name="CBS Sports" tvg-chno="304" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cbsn.png" group-title="Sports",CBS Sports
+http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221226
 #EXTINF:-1 tvg-id="SkySportsF1.us" tvg-name="Sky Sports F1" tvg-chno="305" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/f1.png" group-title="Sports",Sky Sports F1
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7342/index.m3u8
+#EXTINF:-1 tvg-id="Sportsnet.Pittsburgh.us" tvg-name="Sportsnet Pittsburgh" tvg-chno="306" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/snp.png" group-title="Sports",Sportsnet Pittsburgh
+http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221202
