@@ -1,0 +1,41 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="KDKA.us" tvg-name="KDKA CBS 2" tvg-chno="2" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cbs.png" group-title="Local",KDKA CBS 2
+http://fastcable.click:5050/stacey1969@hotmail.com/VrcCGPNFba/684589
+#EXTINF:-1 tvg-id="WTAE.us" tvg-name="WTAE ABC 4" tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/abc.png" group-title="Local",WTAE ABC 4
+http://fastcable.click:5050/stacey1969@hotmail.com/VrcCGPNFba/684246
+#EXTINF:-1 tvg-id="WPXI.us" tvg-name="WPXI NBC 11" tvg-chno="11" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nbc.png" group-title="Local",WPXI NBC 11
+http://fastcable.click:5050/stacey1969@hotmail.com/VrcCGPNFba/419960
+#EXTINF:-1 tvg-id="WDCW.us" tvg-name="WDCW CW 50" tvg-chno="50" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cw.png" group-title="Local",WDCW CW 50
+http://fastcable.click:5050/stacey1969@hotmail.com/VrcCGPNFba/648414
+#EXTINF:-1 tvg-id="WPGH.us" tvg-name="WPGH FOX 53" tvg-chno="53" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fox.png" group-title="Local",WPGH FOX 53
+http://fastcable.click:5050/stacey1969@hotmail.com/VrcCGPNFba/514923
+
+#EXTINF:-1 tvg-id="Buzzr.us" tvg-name="BUZZR" tvg-chno="100" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/buzzr.png" group-title="Entertainment",BUZZR
+http://fastcable.click:5050/stacey1969@hotmail.com/VrcCGPNFba/417958
+#EXTINF:-1 tvg-id="GameShowCentral.us" tvg-name="Game Show Central" tvg-chno="101" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/gsc.png" group-title="Entertainment",Game Show Central
+http://fastcable.click:5050/stacey1969@hotmail.com/VrcCGPNFba/417970
+#EXTINF:-1 tvg-id="NHK World.us" tvg-name="NHK World" tvg-chno="102" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/nhk.png" group-title="Culture",NHK World
+https://nhk.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-id="USA Network.us" tvg-name="USA Network" tvg-chno="103" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/usa.png" group-title="Entertainment",USA
+http://fastcable.click:5050/stacey1969@hotmail.com/VrcCGPNFba/417921
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-chno="104" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/tnt.png" group-title="Entertainment",TNT
+http://fastcable.click:5050/stacey1969@hotmail.com/VrcCGPNFba/417915
+
+#EXTINF:-1 tvg-id="Fox.News.Channel.us" tvg-name="Fox News" tvg-chno="200" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fnc.png" group-title="News",Fox News
+http://fastcable.click:5050/stacey1969@hotmail.com/VrcCGPNFba/418111
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cspan.png" group-title="News",C-SPAN
+http://fastcable.click:5050/stacey1969@hotmail.com/VrcCGPNFba/418124
+
+#EXTINF:-1 tvg-id="Fox Sports 1.us" tvg-name="Fox Sports 1" tvg-chno="300" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs1.png" group-title="Sports",Fox Sports 1
+http://fastcable.click:5050/stacey1969@hotmail.com/VrcCGPNFba/418178
+#EXTINF:-1 tvg-id="Fox Sports 2.us" tvg-name="Fox Sports 2" tvg-chno="301" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/fs2.png" group-title="Sports",Fox Sports 2
+http://fastcable.click:5050/stacey1969@hotmail.com/VrcCGPNFba/418179
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-chno="302" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/espn.png" group-title="Sports",ESPN
+http://fastcable.click:5050/stacey1969@hotmail.com/VrcCGPNFba/418175
+#EXTINF:-1 tvg-id="RACER.Network.us" tvg-name="RACER Network" tvg-chno="303" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/racer.png" group-title="Sports",RACER Network
+http://fastcable.click:5050/stacey1969@hotmail.com/VrcCGPNFba/418191
+#EXTINF:-1 tvg-id="CBS Sports.us" tvg-name="CBS Sports" tvg-chno="304" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/cbsn.png" group-title="Sports",CBS Sports
+http://fastcable.click:5050/stacey1969@hotmail.com/VrcCGPNFba/418177
+#EXTINF:-1 tvg-id="Sportsnet.Pittsburgh.us" tvg-name="Sportsnet Pittsburgh" tvg-chno="305" tvg-logo="https://raw.githubusercontent.com/xxfantasiadownxx/emthreeyou/refs/heads/main/images/snp.png" group-title="Sports",Sportsnet Pittsburgh
+http://fastcable.click:5050/stacey1969@hotmail.com/VrcCGPNFba/418143
